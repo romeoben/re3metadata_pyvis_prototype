@@ -1,0 +1,2473 @@
+edge,title
+"('r3d100010055', 'eng')",WRITTEN_IN
+"('r3d100010055', '3 Natural Sciences')",ABOUT
+"('r3d100010055', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010055', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010055', 'climate')",CONTAINS
+"('r3d100010055', 'weather')",CONTAINS
+"('r3d100010055', 'Archived data')",HAS_CONTENT
+"('r3d100010055', 'Images')",HAS_CONTENT
+"('r3d100010055', 'Raw data')",HAS_CONTENT
+"('r3d100010055', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010055', 'Standard office documents')",HAS_CONTENT
+"('r3d100010055', 'Structured text')",HAS_CONTENT
+"('r3d100010055', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010061', 'eng')",WRITTEN_IN
+"('r3d100010061', '3 Natural Sciences')",ABOUT
+"('r3d100010061', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010061', '31301 Atmospheric Science')",ABOUT
+"('r3d100010061', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010061', 'CALIPSO')",CONTAINS
+"('r3d100010061', 'CERES')",CONTAINS
+"('r3d100010061', 'Global climate change')",CONTAINS
+"('r3d100010061', 'ISCCP')",CONTAINS
+"('r3d100010061', 'MOPITT')",CONTAINS
+"('r3d100010061', 'SRB')",CONTAINS
+"('r3d100010061', 'TES')",CONTAINS
+"('r3d100010061', 'aerosols')",CONTAINS
+"('r3d100010061', 'astrophysics')",CONTAINS
+"('r3d100010061', 'atmospheric chemistry')",CONTAINS
+"('r3d100010061', 'clouds')",CONTAINS
+"('r3d100010061', 'meteorology')",CONTAINS
+"('r3d100010061', 'radiation budget')",CONTAINS
+"('r3d100010061', 'satellite program')",CONTAINS
+"('r3d100010061', 'tropospheric chemistry')",CONTAINS
+"('r3d100010061', 'Archived data')",HAS_CONTENT
+"('r3d100010061', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010061', 'Databases')",HAS_CONTENT
+"('r3d100010061', 'Images')",HAS_CONTENT
+"('r3d100010061', 'Raw data')",HAS_CONTENT
+"('r3d100010061', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010061', 'Standard office documents')",HAS_CONTENT
+"('r3d100010061', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010061', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010165', 'eng')",WRITTEN_IN
+"('r3d100010165', 'fra')",WRITTEN_IN
+"('r3d100010165', 'spa')",WRITTEN_IN
+"('r3d100010165', '3 Natural Sciences')",ABOUT
+"('r3d100010165', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010165', 'carbon cycle')",CONTAINS
+"('r3d100010165', 'currents and sea ice')",CONTAINS
+"('r3d100010165', 'ecosystem modelling')",CONTAINS
+"('r3d100010165', 'marine fish')",CONTAINS
+"('r3d100010165', 'navigation')",CONTAINS
+"('r3d100010165', 'remote sensing')",CONTAINS
+"('r3d100010165', 'satellite imagery')",CONTAINS
+"('r3d100010165', 'species identification')",CONTAINS
+"('r3d100010165', 'toxic phytoplankton')",CONTAINS
+"('r3d100010165', 'water levels')",CONTAINS
+"('r3d100010165', 'Images')",HAS_CONTENT
+"('r3d100010165', 'Plain text')",HAS_CONTENT
+"('r3d100010165', 'Raw data')",HAS_CONTENT
+"('r3d100010165', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010165', 'Standard office documents')",HAS_CONTENT
+"('r3d100010165', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010172', 'eng')",WRITTEN_IN
+"('r3d100010172', '3 Natural Sciences')",ABOUT
+"('r3d100010172', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010172', '31301 Atmospheric Science')",ABOUT
+"('r3d100010172', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010172', 'aerosols')",CONTAINS
+"('r3d100010172', 'air quality')",CONTAINS
+"('r3d100010172', 'climate')",CONTAINS
+"('r3d100010172', 'environmental sciences')",CONTAINS
+"('r3d100010172', 'meteorology')",CONTAINS
+"('r3d100010172', 'ozone')",CONTAINS
+"('r3d100010172', 'radiation')",CONTAINS
+"('r3d100010172', 'Structured text')",HAS_CONTENT
+"('r3d100010172', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010172', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010186', 'eng')",WRITTEN_IN
+"('r3d100010186', '3 Natural Sciences')",ABOUT
+"('r3d100010186', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010186', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010186', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100010186', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010186', '4 Engineering Sciences')",ABOUT
+"('r3d100010186', '409 Computer Science')",ABOUT
+"('r3d100010186', '40902 Software Technology')",ABOUT
+"('r3d100010186', '44 Computer Science, Electrical and System Engineering')",ABOUT
+"('r3d100010186', 'aerosol life cycle')",CONTAINS
+"('r3d100010186', 'climate')",CONTAINS
+"('r3d100010186', 'cloud life cycle')",CONTAINS
+"('r3d100010186', 'global climate')",CONTAINS
+"('r3d100010186', 'ice')",CONTAINS
+"('r3d100010186', 'meteorology')",CONTAINS
+"('r3d100010186', 'polar year')",CONTAINS
+"('r3d100010186', 'radiative processes')",CONTAINS
+"('r3d100010186', 'snow')",CONTAINS
+"('r3d100010186', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010186', 'Databases')",HAS_CONTENT
+"('r3d100010186', 'Images')",HAS_CONTENT
+"('r3d100010186', 'Plain text')",HAS_CONTENT
+"('r3d100010186', 'Raw data')",HAS_CONTENT
+"('r3d100010186', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010186', 'Software applications')",HAS_CONTENT
+"('r3d100010186', 'Structured graphics')",HAS_CONTENT
+"('r3d100010186', 'Structured text')",HAS_CONTENT
+"('r3d100010186', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010186', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010210', 'eng')",WRITTEN_IN
+"('r3d100010210', '3 Natural Sciences')",ABOUT
+"('r3d100010210', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010210', '317 Geography')",ABOUT
+"('r3d100010210', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010210', 'atmospheric pressure')",CONTAINS
+"('r3d100010210', 'cloud types')",CONTAINS
+"('r3d100010210', 'evaporation')",CONTAINS
+"('r3d100010210', 'meteorology')",CONTAINS
+"('r3d100010210', 'occurrences of thunderstorms')",CONTAINS
+"('r3d100010210', 'precipitation')",CONTAINS
+"('r3d100010210', 'soil temperature')",CONTAINS
+"('r3d100010210', 'solar radiation')",CONTAINS
+"('r3d100010210', 'temperature')",CONTAINS
+"('r3d100010210', 'weather phenomena')",CONTAINS
+"('r3d100010210', 'wind speed')",CONTAINS
+"('r3d100010210', 'Archived data')",HAS_CONTENT
+"('r3d100010210', 'Images')",HAS_CONTENT
+"('r3d100010210', 'Plain text')",HAS_CONTENT
+"('r3d100010210', 'Raw data')",HAS_CONTENT
+"('r3d100010210', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010210', 'Standard office documents')",HAS_CONTENT
+"('r3d100010210', 'Structured text')",HAS_CONTENT
+"('r3d100010210', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010210', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010232', 'eng')",WRITTEN_IN
+"('r3d100010232', 'fra')",WRITTEN_IN
+"('r3d100010232', '2 Life Sciences')",ABOUT
+"('r3d100010232', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010232', '20704 Ecology of Agricultural Landscapes')",ABOUT
+"('r3d100010232', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010232', '3 Natural Sciences')",ABOUT
+"('r3d100010232', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010232', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010232', '31501 Geophysics')",ABOUT
+"('r3d100010232', '317 Geography')",ABOUT
+"('r3d100010232', '318 Water Research')",ABOUT
+"('r3d100010232', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010232', 'Jason-2')",CONTAINS
+"('r3d100010232', 'Meteosat')",CONTAINS
+"('r3d100010232', 'Metop')",CONTAINS
+"('r3d100010232', 'climate monitoring')",CONTAINS
+"('r3d100010232', 'meteorological satellite')",CONTAINS
+"('r3d100010232', 'meterology')",CONTAINS
+"('r3d100010232', 'remote sensing')",CONTAINS
+"('r3d100010232', 'satellite data')",CONTAINS
+"('r3d100010232', 'satellite meteorology')",CONTAINS
+"('r3d100010232', 'space agencies')",CONTAINS
+"('r3d100010232', 'space organisations')",CONTAINS
+"('r3d100010232', 'weather prediction')",CONTAINS
+"('r3d100010232', 'Archived data')",HAS_CONTENT
+"('r3d100010232', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010232', 'Images')",HAS_CONTENT
+"('r3d100010232', 'Plain text')",HAS_CONTENT
+"('r3d100010232', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010232', 'Software applications')",HAS_CONTENT
+"('r3d100010232', 'Standard office documents')",HAS_CONTENT
+"('r3d100010232', 'Structured graphics')",HAS_CONTENT
+"('r3d100010232', 'Structured text')",HAS_CONTENT
+"('r3d100010232', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010267', 'eng')",WRITTEN_IN
+"('r3d100010267', '3 Natural Sciences')",ABOUT
+"('r3d100010267', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010267', '31302 Oceanography')",ABOUT
+"('r3d100010267', '314 Geology and Palaeontology')",ABOUT
+"('r3d100010267', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010267', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100010267', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010267', 'calibration')",CONTAINS
+"('r3d100010267', 'chemistry')",CONTAINS
+"('r3d100010267', 'core repository')",CONTAINS
+"('r3d100010267', 'deep biosphere')",CONTAINS
+"('r3d100010267', 'deep sea')",CONTAINS
+"('r3d100010267', 'drilling')",CONTAINS
+"('r3d100010267', 'marine expeditions')",CONTAINS
+"('r3d100010267', 'microbiological samples')",CONTAINS
+"('r3d100010267', 'oceanography')",CONTAINS
+"('r3d100010267', 'paleomagnetism')",CONTAINS
+"('r3d100010267', 'paleontology')",CONTAINS
+"('r3d100010267', 'sample distribution')",CONTAINS
+"('r3d100010267', 'sediments')",CONTAINS
+"('r3d100010267', 'subseafloor ocean')",CONTAINS
+"('r3d100010267', 'x-ray')",CONTAINS
+"('r3d100010267', 'Images')",HAS_CONTENT
+"('r3d100010267', 'Plain text')",HAS_CONTENT
+"('r3d100010267', 'Raw data')",HAS_CONTENT
+"('r3d100010267', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010267', 'Standard office documents')",HAS_CONTENT
+"('r3d100010267', 'Structured graphics')",HAS_CONTENT
+"('r3d100010267', 'Structured text')",HAS_CONTENT
+"('r3d100010267', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010267', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010286', 'eng')",WRITTEN_IN
+"('r3d100010286', '3 Natural Sciences')",ABOUT
+"('r3d100010286', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010286', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010286', 'Climate data')",CONTAINS
+"('r3d100010286', 'Historical climate data')",CONTAINS
+"('r3d100010286', 'Historical weather data')",CONTAINS
+"('r3d100010286', 'Weather data')",CONTAINS
+"('r3d100010286', 'Images')",HAS_CONTENT
+"('r3d100010286', 'Structured text')",HAS_CONTENT
+"('r3d100010286', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010286', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010290', 'eng')",WRITTEN_IN
+"('r3d100010290', '2 Life Sciences')",ABOUT
+"('r3d100010290', '202 Plant Sciences')",ABOUT
+"('r3d100010290', '20202 Plant Ecology and Ecosystem Analysis')",ABOUT
+"('r3d100010290', '203 Zoology')",ABOUT
+"('r3d100010290', '20303 Animal Ecology, Biodiversity and Ecosystem Research')",ABOUT
+"('r3d100010290', '204 Microbiology, Virology and Immunology')",ABOUT
+"('r3d100010290', '21 Biology')",ABOUT
+"('r3d100010290', '22 Medicine')",ABOUT
+"('r3d100010290', '3 Natural Sciences')",ABOUT
+"('r3d100010290', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010290', '31301 Atmospheric Science')",ABOUT
+"('r3d100010290', '318 Water Research')",ABOUT
+"('r3d100010290', '31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management')",ABOUT
+"('r3d100010290', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010290', 'DNA barcoding')",CONTAINS
+"('r3d100010290', 'agriculture systems')",CONTAINS
+"('r3d100010290', 'biogeochemistry')",CONTAINS
+"('r3d100010290', 'carbon cycling')",CONTAINS
+"('r3d100010290', 'climate change')",CONTAINS
+"('r3d100010290', 'ecological data')",CONTAINS
+"('r3d100010290', 'ecological informatics')",CONTAINS
+"('r3d100010290', 'ecology')",CONTAINS
+"('r3d100010290', 'environmental sensors')",CONTAINS
+"('r3d100010290', 'forest management')",CONTAINS
+"('r3d100010290', 'freshwater ecosystems')",CONTAINS
+"('r3d100010290', 'instrumented systems')",CONTAINS
+"('r3d100010290', 'invasion biology')",CONTAINS
+"('r3d100010290', 'metagenomes')",CONTAINS
+"('r3d100010290', 'remote sensing')",CONTAINS
+"('r3d100010290', 'soil')",CONTAINS
+"('r3d100010290', 'specimens')",CONTAINS
+"('r3d100010290', 'terrestrial ecosystems')",CONTAINS
+"('r3d100010290', 'urban ecosystems')",CONTAINS
+"('r3d100010290', 'water quality')",CONTAINS
+"('r3d100010290', 'Images')",HAS_CONTENT
+"('r3d100010290', 'Plain text')",HAS_CONTENT
+"('r3d100010290', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010290', 'Standard office documents')",HAS_CONTENT
+"('r3d100010290', 'Structured text')",HAS_CONTENT
+"('r3d100010290', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010290', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010299', 'deu')",WRITTEN_IN
+"('r3d100010299', 'eng')",WRITTEN_IN
+"('r3d100010299', '3 Natural Sciences')",ABOUT
+"('r3d100010299', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010299', '31301 Atmospheric Science')",ABOUT
+"('r3d100010299', '31302 Oceanography')",ABOUT
+"('r3d100010299', '314 Geology and Palaeontology')",ABOUT
+"('r3d100010299', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010299', 'CERA database')",CONTAINS
+"('r3d100010299', 'climate')",CONTAINS
+"('r3d100010299', 'climate simulation')",CONTAINS
+"('r3d100010299', 'cryosphere')",CONTAINS
+"('r3d100010299', 'data assimilation')",CONTAINS
+"('r3d100010299', 'earth science')",CONTAINS
+"('r3d100010299', 'earth system sciences')",CONTAINS
+"('r3d100010299', 'Archived data')",HAS_CONTENT
+"('r3d100010299', 'Databases')",HAS_CONTENT
+"('r3d100010299', 'Images')",HAS_CONTENT
+"('r3d100010299', 'Plain text')",HAS_CONTENT
+"('r3d100010299', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010299', 'Standard office documents')",HAS_CONTENT
+"('r3d100010299', 'Structured graphics')",HAS_CONTENT
+"('r3d100010299', 'Structured text')",HAS_CONTENT
+"('r3d100010299', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010299', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010311', 'eng')",WRITTEN_IN
+"('r3d100010311', '3 Natural Sciences')",ABOUT
+"('r3d100010311', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010311', '31302 Oceanography')",ABOUT
+"('r3d100010311', '314 Geology and Palaeontology')",ABOUT
+"('r3d100010311', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010311', 'borehole')",CONTAINS
+"('r3d100010311', 'climate change')",CONTAINS
+"('r3d100010311', 'climate forcing')",CONTAINS
+"('r3d100010311', 'climate reconstruction')",CONTAINS
+"('r3d100010311', 'coral and sclerosponge')",CONTAINS
+"('r3d100010311', 'fauna')",CONTAINS
+"('r3d100010311', 'fire history')",CONTAINS
+"('r3d100010311', 'global warming')",CONTAINS
+"('r3d100010311', 'ice core')",CONTAINS
+"('r3d100010311', 'insect')",CONTAINS
+"('r3d100010311', 'lake')",CONTAINS
+"('r3d100010311', 'lake level reconstruction')",CONTAINS
+"('r3d100010311', 'loess and eolian dust')",CONTAINS
+"('r3d100010311', 'paleclimate modelling')",CONTAINS
+"('r3d100010311', 'paleoceanography')",CONTAINS
+"('r3d100010311', 'paleoclimatology')",CONTAINS
+"('r3d100010311', 'plant macrofossil')",CONTAINS
+"('r3d100010311', 'pollen')",CONTAINS
+"('r3d100010311', 'speleothem')",CONTAINS
+"('r3d100010311', 'tree ring')",CONTAINS
+"('r3d100010311', 'Images')",HAS_CONTENT
+"('r3d100010311', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010311', 'Standard office documents')",HAS_CONTENT
+"('r3d100010311', 'Structured text')",HAS_CONTENT
+"('r3d100010311', 'other')",HAS_CONTENT
+"('r3d100010311', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010379', 'eng')",WRITTEN_IN
+"('r3d100010379', '3 Natural Sciences')",ABOUT
+"('r3d100010379', '318 Water Research')",ABOUT
+"('r3d100010379', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010379', 'agriculture')",CONTAINS
+"('r3d100010379', 'climate change')",CONTAINS
+"('r3d100010379', 'emission')",CONTAINS
+"('r3d100010379', 'historical precipitation')",CONTAINS
+"('r3d100010379', 'historical temperature')",CONTAINS
+"('r3d100010379', 'natural hazards')",CONTAINS
+"('r3d100010379', 'nutrition')",CONTAINS
+"('r3d100010379', 'population')",CONTAINS
+"('r3d100010379', 'water')",CONTAINS
+"('r3d100010379', 'weather')",CONTAINS
+"('r3d100010379', 'Images')",HAS_CONTENT
+"('r3d100010379', 'Plain text')",HAS_CONTENT
+"('r3d100010379', 'Structured graphics')",HAS_CONTENT
+"('r3d100010379', 'Structured text')",HAS_CONTENT
+"('r3d100010379', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010402', 'eng')",WRITTEN_IN
+"('r3d100010402', 'nld')",WRITTEN_IN
+"('r3d100010402', '3 Natural Sciences')",ABOUT
+"('r3d100010402', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010402', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010402', 'analyse tool')",CONTAINS
+"('r3d100010402', 'climate')",CONTAINS
+"('r3d100010402', 'climate change')",CONTAINS
+"('r3d100010402', 'data')",CONTAINS
+"('r3d100010402', 'oberservation')",CONTAINS
+"('r3d100010402', 'statistics')",CONTAINS
+"('r3d100010402', 'Archived data')",HAS_CONTENT
+"('r3d100010402', 'Configuration data')",HAS_CONTENT
+"('r3d100010402', 'Images')",HAS_CONTENT
+"('r3d100010402', 'Plain text')",HAS_CONTENT
+"('r3d100010402', 'Raw data')",HAS_CONTENT
+"('r3d100010402', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010402', 'Standard office documents')",HAS_CONTENT
+"('r3d100010402', 'Structured graphics')",HAS_CONTENT
+"('r3d100010402', 'Structured text')",HAS_CONTENT
+"('r3d100010402', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010402', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010404', 'eng')",WRITTEN_IN
+"('r3d100010404', 'ind')",WRITTEN_IN
+"('r3d100010404', '3 Natural Sciences')",ABOUT
+"('r3d100010404', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010404', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010404', 'Asia')",CONTAINS
+"('r3d100010404', 'Indonesia')",CONTAINS
+"('r3d100010404', 'change')",CONTAINS
+"('r3d100010404', 'climate')",CONTAINS
+"('r3d100010404', 'weather')",CONTAINS
+"('r3d100010404', 'Archived data')",HAS_CONTENT
+"('r3d100010404', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010404', 'Images')",HAS_CONTENT
+"('r3d100010404', 'Raw data')",HAS_CONTENT
+"('r3d100010404', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010404', 'Standard office documents')",HAS_CONTENT
+"('r3d100010404', 'Structured graphics')",HAS_CONTENT
+"('r3d100010404', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010405', 'deu')",WRITTEN_IN
+"('r3d100010405', 'eng')",WRITTEN_IN
+"('r3d100010405', '3 Natural Sciences')",ABOUT
+"('r3d100010405', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010405', '31302 Oceanography')",ABOUT
+"('r3d100010405', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010405', 'atmosphere')",CONTAINS
+"('r3d100010405', 'climate indices')",CONTAINS
+"('r3d100010405', 'ice and snow')",CONTAINS
+"('r3d100010405', 'land')",CONTAINS
+"('r3d100010405', 'ocean')",CONTAINS
+"('r3d100010405', 're-analyses')",CONTAINS
+"('r3d100010405', 'Archived data')",HAS_CONTENT
+"('r3d100010405', 'Images')",HAS_CONTENT
+"('r3d100010405', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010405', 'Software applications')",HAS_CONTENT
+"('r3d100010405', 'Standard office documents')",HAS_CONTENT
+"('r3d100010405', 'Structured graphics')",HAS_CONTENT
+"('r3d100010405', 'Structured text')",HAS_CONTENT
+"('r3d100010405', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010405', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010406', 'deu')",WRITTEN_IN
+"('r3d100010406', '3 Natural Sciences')",ABOUT
+"('r3d100010406', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010406', '31301 Atmospheric Science')",ABOUT
+"('r3d100010406', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010406', 'Beaufort scale')",CONTAINS
+"('r3d100010406', 'CEDIM')",CONTAINS
+"('r3d100010406', 'clouds')",CONTAINS
+"('r3d100010406', 'satellite images')",CONTAINS
+"('r3d100010406', 'snowfall')",CONTAINS
+"('r3d100010406', 'weather forecasting')",CONTAINS
+"('r3d100010406', 'weather records Germany')",CONTAINS
+"('r3d100010406', 'weather warning')",CONTAINS
+"('r3d100010406', 'Archived data')",HAS_CONTENT
+"('r3d100010406', 'Images')",HAS_CONTENT
+"('r3d100010406', 'Networkbased data')",HAS_CONTENT
+"('r3d100010406', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010406', 'Structured graphics')",HAS_CONTENT
+"('r3d100010406', 'Structured text')",HAS_CONTENT
+"('r3d100010406', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010505', 'eng')",WRITTEN_IN
+"('r3d100010505', '3 Natural Sciences')",ABOUT
+"('r3d100010505', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010505', '31301 Atmospheric Science')",ABOUT
+"('r3d100010505', '31302 Oceanography')",ABOUT
+"('r3d100010505', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010505', '318 Water Research')",ABOUT
+"('r3d100010505', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010505', 'aerosols')",CONTAINS
+"('r3d100010505', 'coastal')",CONTAINS
+"('r3d100010505', 'dust')",CONTAINS
+"('r3d100010505', 'fire')",CONTAINS
+"('r3d100010505', 'geodetic gravity')",CONTAINS
+"('r3d100010505', 'hurricanes and storms')",CONTAINS
+"('r3d100010505', 'ocean circulation')",CONTAINS
+"('r3d100010505', 'ocean seasurface topography OST')",CONTAINS
+"('r3d100010505', 'ocean temperature')",CONTAINS
+"('r3d100010505', 'ocean winds')",CONTAINS
+"('r3d100010505', 'salinity density')",CONTAINS
+"('r3d100010505', 'sea surface salinity SSS')",CONTAINS
+"('r3d100010505', 'sediments')",CONTAINS
+"('r3d100010505', 'see surface temperature SST')",CONTAINS
+"('r3d100010505', 'snow and ice')",CONTAINS
+"('r3d100010505', 'Databases')",HAS_CONTENT
+"('r3d100010505', 'Images')",HAS_CONTENT
+"('r3d100010505', 'Plain text')",HAS_CONTENT
+"('r3d100010505', 'Raw data')",HAS_CONTENT
+"('r3d100010505', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010505', 'Software applications')",HAS_CONTENT
+"('r3d100010505', 'Structured graphics')",HAS_CONTENT
+"('r3d100010505', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010519', 'eng')",WRITTEN_IN
+"('r3d100010519', '3 Natural Sciences')",ABOUT
+"('r3d100010519', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010519', '31302 Oceanography')",ABOUT
+"('r3d100010519', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010519', 'air-sea measurements')",CONTAINS
+"('r3d100010519', 'climate')",CONTAINS
+"('r3d100010519', 'meteorology')",CONTAINS
+"('r3d100010519', 'oceanography')",CONTAINS
+"('r3d100010519', 'Plain text')",HAS_CONTENT
+"('r3d100010519', 'Raw data')",HAS_CONTENT
+"('r3d100010519', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010519', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010588', 'eng')",WRITTEN_IN
+"('r3d100010588', 'zho')",WRITTEN_IN
+"('r3d100010588', '3 Natural Sciences')",ABOUT
+"('r3d100010588', '311 Astrophysics and Astronomy')",ABOUT
+"('r3d100010588', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010588', '32 Physics')",ABOUT
+"('r3d100010588', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010588', '4 Engineering Sciences')",ABOUT
+"('r3d100010588', '404 Heat Energy Technology, Thermal Machines, Fluid Mechanics')",ABOUT
+"('r3d100010588', '42 Thermal Engineering/Process Engineering')",ABOUT
+"('r3d100010588', 'agriculture')",CONTAINS
+"('r3d100010588', 'agrology')",CONTAINS
+"('r3d100010588', 'area studies')",CONTAINS
+"('r3d100010588', 'astronomy')",CONTAINS
+"('r3d100010588', 'atmosphere')",CONTAINS
+"('r3d100010588', 'cartology')",CONTAINS
+"('r3d100010588', 'climate')",CONTAINS
+"('r3d100010588', 'commerce')",CONTAINS
+"('r3d100010588', 'earth sciences')",CONTAINS
+"('r3d100010588', 'ecology')",CONTAINS
+"('r3d100010588', 'environment')",CONTAINS
+"('r3d100010588', 'forestry')",CONTAINS
+"('r3d100010588', 'geochemistry')",CONTAINS
+"('r3d100010588', 'geography')",CONTAINS
+"('r3d100010588', 'geoinformatics')",CONTAINS
+"('r3d100010588', 'geology')",CONTAINS
+"('r3d100010588', 'geophysics')",CONTAINS
+"('r3d100010588', 'hydrology')",CONTAINS
+"('r3d100010588', 'industry')",CONTAINS
+"('r3d100010588', 'infrastructure')",CONTAINS
+"('r3d100010588', 'mineralogy')",CONTAINS
+"('r3d100010588', 'natural resources')",CONTAINS
+"('r3d100010588', 'oceanography')",CONTAINS
+"('r3d100010588', 'outerspace')",CONTAINS
+"('r3d100010588', 'plants')",CONTAINS
+"('r3d100010588', 'seismology')",CONTAINS
+"('r3d100010588', 'social development')",CONTAINS
+"('r3d100010588', 'social population')",CONTAINS
+"('r3d100010588', 'survey')",CONTAINS
+"('r3d100010588', 'transport')",CONTAINS
+"('r3d100010588', 'water')",CONTAINS
+"('r3d100010588', 'wildlife')",CONTAINS
+"('r3d100010588', 'Databases')",HAS_CONTENT
+"('r3d100010588', 'Images')",HAS_CONTENT
+"('r3d100010588', 'Standard office documents')",HAS_CONTENT
+"('r3d100010588', 'Structured graphics')",HAS_CONTENT
+"('r3d100010588', 'other')",HAS_CONTENT
+"('r3d100010588', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010606', 'eng')",WRITTEN_IN
+"('r3d100010606', '2 Life Sciences')",ABOUT
+"('r3d100010606', '201 Basic Biological and Medical Research')",ABOUT
+"('r3d100010606', '20102 Biophysics')",ABOUT
+"('r3d100010606', '203 Zoology')",ABOUT
+"('r3d100010606', '20302 Evolution, Anthropology')",ABOUT
+"('r3d100010606', '20305 Biochemistry and Animal Physiology')",ABOUT
+"('r3d100010606', '21 Biology')",ABOUT
+"('r3d100010606', 'biodiversity')",CONTAINS
+"('r3d100010606', 'ecological system')",CONTAINS
+"('r3d100010606', 'ecology')",CONTAINS
+"('r3d100010606', 'ecosystem')",CONTAINS
+"('r3d100010606', 'nature')",CONTAINS
+"('r3d100010606', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010606', 'Images')",HAS_CONTENT
+"('r3d100010606', 'Networkbased data')",HAS_CONTENT
+"('r3d100010606', 'Raw data')",HAS_CONTENT
+"('r3d100010606', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010606', 'Software applications')",HAS_CONTENT
+"('r3d100010606', 'Standard office documents')",HAS_CONTENT
+"('r3d100010606', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010621', 'deu')",WRITTEN_IN
+"('r3d100010621', 'eng')",WRITTEN_IN
+"('r3d100010621', '3 Natural Sciences')",ABOUT
+"('r3d100010621', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010621', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010621', 'agroclimatology')",CONTAINS
+"('r3d100010621', 'atmospheric chemistry')",CONTAINS
+"('r3d100010621', 'climate')",CONTAINS
+"('r3d100010621', 'human biometeorology')",CONTAINS
+"('r3d100010621', 'hydroclimatology')",CONTAINS
+"('r3d100010621', 'marine climatology')",CONTAINS
+"('r3d100010621', 'medical climatology')",CONTAINS
+"('r3d100010621', 'meteorology')",CONTAINS
+"('r3d100010621', 'ozone')",CONTAINS
+"('r3d100010621', 'phenology')",CONTAINS
+"('r3d100010621', 'radioactivity monitoring')",CONTAINS
+"('r3d100010621', 'technical climatology')",CONTAINS
+"('r3d100010621', 'weather')",CONTAINS
+"('r3d100010621', 'Images')",HAS_CONTENT
+"('r3d100010621', 'Plain text')",HAS_CONTENT
+"('r3d100010621', 'Raw data')",HAS_CONTENT
+"('r3d100010621', 'Standard office documents')",HAS_CONTENT
+"('r3d100010621', 'Structured text')",HAS_CONTENT
+"('r3d100010621', 'other')",HAS_CONTENT
+"('r3d100010621', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010621', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010627', 'eng')",WRITTEN_IN
+"('r3d100010627', '3 Natural Sciences')",ABOUT
+"('r3d100010627', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010627', '31301 Atmospheric Science')",ABOUT
+"('r3d100010627', '314 Geology and Palaeontology')",ABOUT
+"('r3d100010627', '318 Water Research')",ABOUT
+"('r3d100010627', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010627', 'atmospheric warming')",CONTAINS
+"('r3d100010627', 'climate change')",CONTAINS
+"('r3d100010627', 'geomorphology')",CONTAINS
+"('r3d100010627', 'glacier fluctuation')",CONTAINS
+"('r3d100010627', 'glaciology')",CONTAINS
+"('r3d100010627', 'ice')",CONTAINS
+"('r3d100010627', 'snow')",CONTAINS
+"('r3d100010627', 'Images')",HAS_CONTENT
+"('r3d100010627', 'Networkbased data')",HAS_CONTENT
+"('r3d100010627', 'Plain text')",HAS_CONTENT
+"('r3d100010627', 'Standard office documents')",HAS_CONTENT
+"('r3d100010627', 'other')",HAS_CONTENT
+"('r3d100010627', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010668', 'eng')",WRITTEN_IN
+"('r3d100010668', '2 Life Sciences')",ABOUT
+"('r3d100010668', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010668', '20701 Soil Sciences')",ABOUT
+"('r3d100010668', '20704 Ecology of Agricultural Landscapes')",ABOUT
+"('r3d100010668', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010668', '3 Natural Sciences')",ABOUT
+"('r3d100010668', '31 Chemistry')",ABOUT
+"('r3d100010668', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010668', '31301 Atmospheric Science')",ABOUT
+"('r3d100010668', '31302 Oceanography')",ABOUT
+"('r3d100010668', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010668', '31501 Geophysics')",ABOUT
+"('r3d100010668', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100010668', '31601 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100010668', '317 Geography')",ABOUT
+"('r3d100010668', '318 Water Research')",ABOUT
+"('r3d100010668', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010668', 'Weather verification')",CONTAINS
+"('r3d100010668', 'World climate')",CONTAINS
+"('r3d100010668', 'air quality')",CONTAINS
+"('r3d100010668', 'atmospheric dispersion')",CONTAINS
+"('r3d100010668', 'health')",CONTAINS
+"('r3d100010668', 'weather')",CONTAINS
+"('r3d100010668', 'weather forecast')",CONTAINS
+"('r3d100010668', 'Images')",HAS_CONTENT
+"('r3d100010668', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010668', 'Structured graphics')",HAS_CONTENT
+"('r3d100010668', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010791', 'eng')",WRITTEN_IN
+"('r3d100010791', '3 Natural Sciences')",ABOUT
+"('r3d100010791', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010791', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010791', '31501 Geophysics')",ABOUT
+"('r3d100010791', '318 Water Research')",ABOUT
+"('r3d100010791', '31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management')",ABOUT
+"('r3d100010791', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010791', 'agriculture')",CONTAINS
+"('r3d100010791', 'atmosphere')",CONTAINS
+"('r3d100010791', 'atmospheric carbon dioxide')",CONTAINS
+"('r3d100010791', 'climatology')",CONTAINS
+"('r3d100010791', 'cloud physics')",CONTAINS
+"('r3d100010791', 'earth sciences')",CONTAINS
+"('r3d100010791', 'hazards')",CONTAINS
+"('r3d100010791', 'hydrology')",CONTAINS
+"('r3d100010791', 'meteorology')",CONTAINS
+"('r3d100010791', 'renewable energy')",CONTAINS
+"('r3d100010791', 'severe storms')",CONTAINS
+"('r3d100010791', 'solar weather')",CONTAINS
+"('r3d100010791', 'space weather')",CONTAINS
+"('r3d100010791', 'weather science')",CONTAINS
+"('r3d100010791', 'wildfire prediction')",CONTAINS
+"('r3d100010791', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010791', 'Images')",HAS_CONTENT
+"('r3d100010791', 'Plain text')",HAS_CONTENT
+"('r3d100010791', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010791', 'Standard office documents')",HAS_CONTENT
+"('r3d100010791', 'Structured graphics')",HAS_CONTENT
+"('r3d100010791', 'other')",HAS_CONTENT
+"('r3d100010791', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010791', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010854', 'eng')",WRITTEN_IN
+"('r3d100010854', 'fra')",WRITTEN_IN
+"('r3d100010854', 'ind')",WRITTEN_IN
+"('r3d100010854', 'spa')",WRITTEN_IN
+"('r3d100010854', '2 Life Sciences')",ABOUT
+"('r3d100010854', '205 Medicine')",ABOUT
+"('r3d100010854', '20502 Public Health, Health Services Research, Social Medicine')",ABOUT
+"('r3d100010854', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010854', '20704 Ecology of Agricultural Landscapes')",ABOUT
+"('r3d100010854', '20708 Agricultural Economics and Sociology')",ABOUT
+"('r3d100010854', '22 Medicine')",ABOUT
+"('r3d100010854', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100010854', '3 Natural Sciences')",ABOUT
+"('r3d100010854', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010854', '31301 Atmospheric Science')",ABOUT
+"('r3d100010854', '317 Geography')",ABOUT
+"('r3d100010854', '31701 Physical Geography')",ABOUT
+"('r3d100010854', '318 Water Research')",ABOUT
+"('r3d100010854', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010854', 'Africa')",CONTAINS
+"('r3d100010854', 'Asia')",CONTAINS
+"('r3d100010854', 'Caribbean')",CONTAINS
+"('r3d100010854', 'Latin America')",CONTAINS
+"('r3d100010854', 'Pacific')",CONTAINS
+"('r3d100010854', 'agriculture')",CONTAINS
+"('r3d100010854', 'biology')",CONTAINS
+"('r3d100010854', 'civilization')",CONTAINS
+"('r3d100010854', 'climatology')",CONTAINS
+"('r3d100010854', 'economics')",CONTAINS
+"('r3d100010854', 'environmental monitoring')",CONTAINS
+"('r3d100010854', 'health')",CONTAINS
+"('r3d100010854', 'water')",CONTAINS
+"('r3d100010854', 'Images')",HAS_CONTENT
+"('r3d100010854', 'Plain text')",HAS_CONTENT
+"('r3d100010854', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010854', 'Standard office documents')",HAS_CONTENT
+"('r3d100010854', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010860', 'eng')",WRITTEN_IN
+"('r3d100010860', '3 Natural Sciences')",ABOUT
+"('r3d100010860', '311 Astrophysics and Astronomy')",ABOUT
+"('r3d100010860', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010860', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010860', '32 Physics')",ABOUT
+"('r3d100010860', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010860', 'Terra satellite')",CONTAINS
+"('r3d100010860', 'atmospheric aerosols')",CONTAINS
+"('r3d100010860', 'climatology')",CONTAINS
+"('r3d100010860', 'clouds')",CONTAINS
+"('r3d100010860', 'earth observing system')",CONTAINS
+"('r3d100010860', 'solar radiation')",CONTAINS
+"('r3d100010860', 'spectral response curve')",CONTAINS
+"('r3d100010860', 'spectroradiometer')",CONTAINS
+"('r3d100010860', 'Images')",HAS_CONTENT
+"('r3d100010860', 'Raw data')",HAS_CONTENT
+"('r3d100010860', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010860', 'Standard office documents')",HAS_CONTENT
+"('r3d100010860', 'Structured graphics')",HAS_CONTENT
+"('r3d100010860', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010867', 'eng')",WRITTEN_IN
+"('r3d100010867', '3 Natural Sciences')",ABOUT
+"('r3d100010867', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010867', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010867', '317 Geography')",ABOUT
+"('r3d100010867', '318 Water Research')",ABOUT
+"('r3d100010867', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010867', '3DModel')",CONTAINS
+"('r3d100010867', 'climate processes')",CONTAINS
+"('r3d100010867', 'climatology')",CONTAINS
+"('r3d100010867', 'earth science')",CONTAINS
+"('r3d100010867', 'hazards')",CONTAINS
+"('r3d100010867', 'rain and rainfall')",CONTAINS
+"('r3d100010867', 'satellite')",CONTAINS
+"('r3d100010867', 'spacecraft')",CONTAINS
+"('r3d100010867', 'stroms')",CONTAINS
+"('r3d100010867', 'tropics')",CONTAINS
+"('r3d100010867', 'water and energy cycles')",CONTAINS
+"('r3d100010867', 'weather forecast')",CONTAINS
+"('r3d100010867', 'Databases')",HAS_CONTENT
+"('r3d100010867', 'Images')",HAS_CONTENT
+"('r3d100010867', 'Plain text')",HAS_CONTENT
+"('r3d100010867', 'Raw data')",HAS_CONTENT
+"('r3d100010867', 'Standard office documents')",HAS_CONTENT
+"('r3d100010867', 'Structured graphics')",HAS_CONTENT
+"('r3d100010867', 'other')",HAS_CONTENT
+"('r3d100010867', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010894', 'eng')",WRITTEN_IN
+"('r3d100010894', '3 Natural Sciences')",ABOUT
+"('r3d100010894', '31 Chemistry')",ABOUT
+"('r3d100010894', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010894', '31301 Atmospheric Science')",ABOUT
+"('r3d100010894', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010894', 'climatology')",CONTAINS
+"('r3d100010894', 'cloud forecasting')",CONTAINS
+"('r3d100010894', 'cloud physics')",CONTAINS
+"('r3d100010894', 'clouds')",CONTAINS
+"('r3d100010894', 'hydrologic cycle')",CONTAINS
+"('r3d100010894', 'hydrology')",CONTAINS
+"('r3d100010894', 'meteorology')",CONTAINS
+"('r3d100010894', 'radiation')",CONTAINS
+"('r3d100010894', 'Audiovisual data')",HAS_CONTENT
+"('r3d100010894', 'Images')",HAS_CONTENT
+"('r3d100010894', 'Structured graphics')",HAS_CONTENT
+"('r3d100010894', 'other')",HAS_CONTENT
+"('r3d100010894', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010914', 'eng')",WRITTEN_IN
+"('r3d100010914', '3 Natural Sciences')",ABOUT
+"('r3d100010914', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010914', '31302 Oceanography')",ABOUT
+"('r3d100010914', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100010914', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100010914', '317 Geography')",ABOUT
+"('r3d100010914', '318 Water Research')",ABOUT
+"('r3d100010914', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010914', 'australia')",CONTAINS
+"('r3d100010914', 'climatology')",CONTAINS
+"('r3d100010914', 'marine sciences')",CONTAINS
+"('r3d100010914', 'ocean maps')",CONTAINS
+"('r3d100010914', 'Archived data')",HAS_CONTENT
+"('r3d100010914', 'Images')",HAS_CONTENT
+"('r3d100010914', 'Raw data')",HAS_CONTENT
+"('r3d100010914', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010914', 'Structured graphics')",HAS_CONTENT
+"('r3d100010914', 'Structured text')",HAS_CONTENT
+"('r3d100010914', 'other')",HAS_CONTENT
+"('r3d100010914', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010914', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010919', 'eng')",WRITTEN_IN
+"('r3d100010919', '3 Natural Sciences')",ABOUT
+"('r3d100010919', '32 Physics')",ABOUT
+"('r3d100010919', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010919', 'animals')",CONTAINS
+"('r3d100010919', 'fresh water')",CONTAINS
+"('r3d100010919', 'ocean')",CONTAINS
+"('r3d100010919', 'plants')",CONTAINS
+"('r3d100010919', 'vegetation and climate')",CONTAINS
+"('r3d100010919', 'Databases')",HAS_CONTENT
+"('r3d100010919', 'Standard office documents')",HAS_CONTENT
+"('r3d100010919', 'Structured graphics')",HAS_CONTENT
+"('r3d100010919', 'Structured text')",HAS_CONTENT
+"('r3d100010919', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010919', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010942', 'eng')",WRITTEN_IN
+"('r3d100010942', '3 Natural Sciences')",ABOUT
+"('r3d100010942', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010942', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010942', 'atmosphere')",CONTAINS
+"('r3d100010942', 'climatic changes')",CONTAINS
+"('r3d100010942', 'climatic extremes')",CONTAINS
+"('r3d100010942', 'climatology')",CONTAINS
+"('r3d100010942', 'maps')",CONTAINS
+"('r3d100010942', 'meteorology')",CONTAINS
+"('r3d100010942', 'precipitation (meteorology)')",CONTAINS
+"('r3d100010942', 'remote sensing')",CONTAINS
+"('r3d100010942', 'weather')",CONTAINS
+"('r3d100010942', 'weather forecasting')",CONTAINS
+"('r3d100010942', 'Plain text')",HAS_CONTENT
+"('r3d100010942', 'Raw data')",HAS_CONTENT
+"('r3d100010942', 'Standard office documents')",HAS_CONTENT
+"('r3d100010942', 'Structured graphics')",HAS_CONTENT
+"('r3d100010942', 'other')",HAS_CONTENT
+"('r3d100010942', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010942', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010944', 'eng')",WRITTEN_IN
+"('r3d100010944', 'fra')",WRITTEN_IN
+"('r3d100010944', 'rus')",WRITTEN_IN
+"('r3d100010944', 'spa')",WRITTEN_IN
+"('r3d100010944', '3 Natural Sciences')",ABOUT
+"('r3d100010944', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010944', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010944', 'atmosphere')",CONTAINS
+"('r3d100010944', 'climate change mitigation')",CONTAINS
+"('r3d100010944', 'climatology')",CONTAINS
+"('r3d100010944', 'environmental sciences')",CONTAINS
+"('r3d100010944', 'fisheries')",CONTAINS
+"('r3d100010944', 'global weather experiment project')",CONTAINS
+"('r3d100010944', 'hydrology')",CONTAINS
+"('r3d100010944', 'oceanography')",CONTAINS
+"('r3d100010944', 'topoclimatology')",CONTAINS
+"('r3d100010944', 'weather')",CONTAINS
+"('r3d100010944', 'Images')",HAS_CONTENT
+"('r3d100010944', 'Raw data')",HAS_CONTENT
+"('r3d100010944', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010944', 'Software applications')",HAS_CONTENT
+"('r3d100010944', 'Structured graphics')",HAS_CONTENT
+"('r3d100010944', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010954', 'eng')",WRITTEN_IN
+"('r3d100010954', '3 Natural Sciences')",ABOUT
+"('r3d100010954', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010954', '31301 Atmospheric Science')",ABOUT
+"('r3d100010954', '317 Geography')",ABOUT
+"('r3d100010954', '31702 Human Geography')",ABOUT
+"('r3d100010954', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010954', 'climatology')",CONTAINS
+"('r3d100010954', 'earthquake')",CONTAINS
+"('r3d100010954', 'forecasts')",CONTAINS
+"('r3d100010954', 'ice')",CONTAINS
+"('r3d100010954', 'meteorology')",CONTAINS
+"('r3d100010954', 'volcanic seismic data')",CONTAINS
+"('r3d100010954', 'weather')",CONTAINS
+"('r3d100010954', 'Images')",HAS_CONTENT
+"('r3d100010954', 'Plain text')",HAS_CONTENT
+"('r3d100010954', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010954', 'Structured graphics')",HAS_CONTENT
+"('r3d100010954', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010954', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010955', 'eng')",WRITTEN_IN
+"('r3d100010955', '3 Natural Sciences')",ABOUT
+"('r3d100010955', '31 Chemistry')",ABOUT
+"('r3d100010955', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010955', '31301 Atmospheric Science')",ABOUT
+"('r3d100010955', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010955', 'aerosols')",CONTAINS
+"('r3d100010955', 'arctic regions')",CONTAINS
+"('r3d100010955', 'atmospheric radiation')",CONTAINS
+"('r3d100010955', 'chemistry')",CONTAINS
+"('r3d100010955', 'clouds')",CONTAINS
+"('r3d100010955', 'greenhouse gases')",CONTAINS
+"('r3d100010955', 'meteorology')",CONTAINS
+"('r3d100010955', 'pollutants')",CONTAINS
+"('r3d100010955', 'sea ice')",CONTAINS
+"('r3d100010955', 'surface energy')",CONTAINS
+"('r3d100010955', 'Databases')",HAS_CONTENT
+"('r3d100010955', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010955', 'Software applications')",HAS_CONTENT
+"('r3d100010955', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100010966', 'eng')",WRITTEN_IN
+"('r3d100010966', '3 Natural Sciences')",ABOUT
+"('r3d100010966', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100010966', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100010966', 'air quality')",CONTAINS
+"('r3d100010966', 'atmosphere')",CONTAINS
+"('r3d100010966', 'atmospheric aerosols')",CONTAINS
+"('r3d100010966', 'carbon dioxide')",CONTAINS
+"('r3d100010966', 'carbon monoxide')",CONTAINS
+"('r3d100010966', 'climatic changes')",CONTAINS
+"('r3d100010966', 'earth sciences')",CONTAINS
+"('r3d100010966', 'greenhouse effect, atmospheric')",CONTAINS
+"('r3d100010966', 'greenhouse gases')",CONTAINS
+"('r3d100010966', 'halogenation')",CONTAINS
+"('r3d100010966', 'hydrocarbons')",CONTAINS
+"('r3d100010966', 'methane')",CONTAINS
+"('r3d100010966', 'natural gas')",CONTAINS
+"('r3d100010966', 'nitrous oxide')",CONTAINS
+"('r3d100010966', 'ozone')",CONTAINS
+"('r3d100010966', 'ozone layer depletion')",CONTAINS
+"('r3d100010966', 'solar radiation')",CONTAINS
+"('r3d100010966', 'space sciences')",CONTAINS
+"('r3d100010966', 'stratosphere')",CONTAINS
+"('r3d100010966', 'Databases')",HAS_CONTENT
+"('r3d100010966', 'Images')",HAS_CONTENT
+"('r3d100010966', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100010966', 'Structured graphics')",HAS_CONTENT
+"('r3d100010966', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100010966', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011003', 'eng')",WRITTEN_IN
+"('r3d100011003', '3 Natural Sciences')",ABOUT
+"('r3d100011003', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011003', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011003', '317 Geography')",ABOUT
+"('r3d100011003', '318 Water Research')",ABOUT
+"('r3d100011003', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011003', 'Fairbanks (Alaska)')",CONTAINS
+"('r3d100011003', 'climate')",CONTAINS
+"('r3d100011003', 'forecasting')",CONTAINS
+"('r3d100011003', 'hydrology')",CONTAINS
+"('r3d100011003', 'marine biology')",CONTAINS
+"('r3d100011003', 'meteorology')",CONTAINS
+"('r3d100011003', 'precipitation (meteorology)')",CONTAINS
+"('r3d100011003', 'rivers - economic aspects')",CONTAINS
+"('r3d100011003', 'weather')",CONTAINS
+"('r3d100011003', 'weather control')",CONTAINS
+"('r3d100011003', 'weather forecasting')",CONTAINS
+"('r3d100011003', 'Databases')",HAS_CONTENT
+"('r3d100011003', 'Images')",HAS_CONTENT
+"('r3d100011003', 'Plain text')",HAS_CONTENT
+"('r3d100011003', 'Raw data')",HAS_CONTENT
+"('r3d100011003', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011003', 'Standard office documents')",HAS_CONTENT
+"('r3d100011003', 'Structured graphics')",HAS_CONTENT
+"('r3d100011003', 'other')",HAS_CONTENT
+"('r3d100011003', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011003', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011010', 'eng')",WRITTEN_IN
+"('r3d100011010', '3 Natural Sciences')",ABOUT
+"('r3d100011010', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011010', '314 Geology and Palaeontology')",ABOUT
+"('r3d100011010', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011010', '317 Geography')",ABOUT
+"('r3d100011010', '318 Water Research')",ABOUT
+"('r3d100011010', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011010', 'climatology')",CONTAINS
+"('r3d100011010', 'glaciology')",CONTAINS
+"('r3d100011010', 'humidity')",CONTAINS
+"('r3d100011010', 'ice sheets')",CONTAINS
+"('r3d100011010', 'measurements')",CONTAINS
+"('r3d100011010', 'physical sciences')",CONTAINS
+"('r3d100011010', 'pressure')",CONTAINS
+"('r3d100011010', 'temperature')",CONTAINS
+"('r3d100011010', 'wind')",CONTAINS
+"('r3d100011010', 'Images')",HAS_CONTENT
+"('r3d100011010', 'Plain text')",HAS_CONTENT
+"('r3d100011010', 'Raw data')",HAS_CONTENT
+"('r3d100011010', 'Standard office documents')",HAS_CONTENT
+"('r3d100011010', 'Structured graphics')",HAS_CONTENT
+"('r3d100011010', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011014', 'eng')",WRITTEN_IN
+"('r3d100011014', 'nor')",WRITTEN_IN
+"('r3d100011014', '3 Natural Sciences')",ABOUT
+"('r3d100011014', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011014', '31302 Oceanography')",ABOUT
+"('r3d100011014', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011014', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100011014', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011014', 'Svalbard (Norway)')",CONTAINS
+"('r3d100011014', 'arctic')",CONTAINS
+"('r3d100011014', 'cryosphere')",CONTAINS
+"('r3d100011014', 'meteorology')",CONTAINS
+"('r3d100011014', 'oceanography')",CONTAINS
+"('r3d100011014', 'sea ice')",CONTAINS
+"('r3d100011014', 'weather')",CONTAINS
+"('r3d100011014', 'weather forecasting')",CONTAINS
+"('r3d100011014', 'Archived data')",HAS_CONTENT
+"('r3d100011014', 'Databases')",HAS_CONTENT
+"('r3d100011014', 'Images')",HAS_CONTENT
+"('r3d100011014', 'Networkbased data')",HAS_CONTENT
+"('r3d100011014', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011014', 'Structured graphics')",HAS_CONTENT
+"('r3d100011014', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011014', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011018', 'eng')",WRITTEN_IN
+"('r3d100011018', '3 Natural Sciences')",ABOUT
+"('r3d100011018', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011018', '317 Geography')",ABOUT
+"('r3d100011018', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011018', 'Canada')",CONTAINS
+"('r3d100011018', 'Mexico')",CONTAINS
+"('r3d100011018', 'North America')",CONTAINS
+"('r3d100011018', 'United States')",CONTAINS
+"('r3d100011018', 'aerosols')",CONTAINS
+"('r3d100011018', 'air quality')",CONTAINS
+"('r3d100011018', 'air quality management')",CONTAINS
+"('r3d100011018', 'atmospheric chemistry')",CONTAINS
+"('r3d100011018', 'climate change')",CONTAINS
+"('r3d100011018', 'climatology')",CONTAINS
+"('r3d100011018', 'emissions estimates')",CONTAINS
+"('r3d100011018', 'health sciences')",CONTAINS
+"('r3d100011018', 'meteorology')",CONTAINS
+"('r3d100011018', 'pollutants')",CONTAINS
+"('r3d100011018', 'tropospheric chemistry')",CONTAINS
+"('r3d100011018', 'Images')",HAS_CONTENT
+"('r3d100011018', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011018', 'Standard office documents')",HAS_CONTENT
+"('r3d100011018', 'other')",HAS_CONTENT
+"('r3d100011018', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011018', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011020', 'eng')",WRITTEN_IN
+"('r3d100011020', '3 Natural Sciences')",ABOUT
+"('r3d100011020', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011020', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011020', 'Central Arctic')",CONTAINS
+"('r3d100011020', 'aerosols')",CONTAINS
+"('r3d100011020', 'climatology')",CONTAINS
+"('r3d100011020', 'greenhouse effect, atmospheric')",CONTAINS
+"('r3d100011020', 'greenhouse gases')",CONTAINS
+"('r3d100011020', 'meteorology')",CONTAINS
+"('r3d100011020', 'ozone')",CONTAINS
+"('r3d100011020', 'Images')",HAS_CONTENT
+"('r3d100011020', 'Plain text')",HAS_CONTENT
+"('r3d100011020', 'Raw data')",HAS_CONTENT
+"('r3d100011020', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011020', 'Structured graphics')",HAS_CONTENT
+"('r3d100011020', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011057', 'eng')",WRITTEN_IN
+"('r3d100011057', '2 Life Sciences')",ABOUT
+"('r3d100011057', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011057', '20704 Ecology of Agricultural Landscapes')",ABOUT
+"('r3d100011057', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011057', '3 Natural Sciences')",ABOUT
+"('r3d100011057', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011057', '31301 Atmospheric Science')",ABOUT
+"('r3d100011057', '31302 Oceanography')",ABOUT
+"('r3d100011057', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011057', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100011057', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011057', 'EMSA')",CONTAINS
+"('r3d100011057', 'EUROSUR')",CONTAINS
+"('r3d100011057', 'FRONTEX')",CONTAINS
+"('r3d100011057', 'G-MOSAIC')",CONTAINS
+"('r3d100011057', 'SEA')",CONTAINS
+"('r3d100011057', 'Sentinels')",CONTAINS
+"('r3d100011057', 'agriculture')",CONTAINS
+"('r3d100011057', 'border surveillance')",CONTAINS
+"('r3d100011057', 'civil protection')",CONTAINS
+"('r3d100011057', 'climate change')",CONTAINS
+"('r3d100011057', 'earth observation')",CONTAINS
+"('r3d100011057', 'environment protection')",CONTAINS
+"('r3d100011057', 'environmental hazards')",CONTAINS
+"('r3d100011057', 'fisheries')",CONTAINS
+"('r3d100011057', 'forestry')",CONTAINS
+"('r3d100011057', 'health')",CONTAINS
+"('r3d100011057', 'management of urban areas')",CONTAINS
+"('r3d100011057', 'regional and local planning')",CONTAINS
+"('r3d100011057', 'satellite missions')",CONTAINS
+"('r3d100011057', 'sustainable development')",CONTAINS
+"('r3d100011057', 'tourism')",CONTAINS
+"('r3d100011057', 'transport')",CONTAINS
+"('r3d100011057', 'Databases')",HAS_CONTENT
+"('r3d100011057', 'Images')",HAS_CONTENT
+"('r3d100011057', 'Plain text')",HAS_CONTENT
+"('r3d100011057', 'Raw data')",HAS_CONTENT
+"('r3d100011057', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011057', 'Structured graphics')",HAS_CONTENT
+"('r3d100011057', 'Structured text')",HAS_CONTENT
+"('r3d100011057', 'other')",HAS_CONTENT
+"('r3d100011057', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011057', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011112', 'eng')",WRITTEN_IN
+"('r3d100011112', '3 Natural Sciences')",ABOUT
+"('r3d100011112', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011112', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100011112', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011112', 'VLBI')",CONTAINS
+"('r3d100011112', 'atmosphere sounding')",CONTAINS
+"('r3d100011112', 'geodynamics')",CONTAINS
+"('r3d100011112', 'gps')",CONTAINS
+"('r3d100011112', 'satellite navigation')",CONTAINS
+"('r3d100011112', 'Images')",HAS_CONTENT
+"('r3d100011112', 'Raw data')",HAS_CONTENT
+"('r3d100011112', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011112', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011138', 'eng')",WRITTEN_IN
+"('r3d100011138', '3 Natural Sciences')",ABOUT
+"('r3d100011138', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011138', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011138', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100011138', '317 Geography')",ABOUT
+"('r3d100011138', '318 Water Research')",ABOUT
+"('r3d100011138', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011138', 'meteorology')",CONTAINS
+"('r3d100011138', 'meteorology - data processing')",CONTAINS
+"('r3d100011138', 'meteorology - remote sensing')",CONTAINS
+"('r3d100011138', 'meteorology - research')",CONTAINS
+"('r3d100011138', 'meteorology - research - international cooperation')",CONTAINS
+"('r3d100011138', 'weather forecasting')",CONTAINS
+"('r3d100011138', 'Images')",HAS_CONTENT
+"('r3d100011138', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011138', 'Standard office documents')",HAS_CONTENT
+"('r3d100011138', 'Structured graphics')",HAS_CONTENT
+"('r3d100011138', 'Structured text')",HAS_CONTENT
+"('r3d100011138', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011138', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011140', 'eng')",WRITTEN_IN
+"('r3d100011140', '2 Life Sciences')",ABOUT
+"('r3d100011140', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011140', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011140', '3 Natural Sciences')",ABOUT
+"('r3d100011140', '305 Biological Chemistry and Food Chemistry')",ABOUT
+"('r3d100011140', '31 Chemistry')",ABOUT
+"('r3d100011140', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100011140', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011140', 'agriculture')",CONTAINS
+"('r3d100011140', 'crops and climate')",CONTAINS
+"('r3d100011140', 'droughts - research')",CONTAINS
+"('r3d100011140', 'food security')",CONTAINS
+"('r3d100011140', 'forest management')",CONTAINS
+"('r3d100011140', 'global warming')",CONTAINS
+"('r3d100011140', 'livestock management')",CONTAINS
+"('r3d100011140', 'soil science')",CONTAINS
+"('r3d100011140', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011140', 'Images')",HAS_CONTENT
+"('r3d100011140', 'Raw data')",HAS_CONTENT
+"('r3d100011140', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011140', 'Standard office documents')",HAS_CONTENT
+"('r3d100011140', 'other')",HAS_CONTENT
+"('r3d100011140', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011150', 'eng')",WRITTEN_IN
+"('r3d100011150', '3 Natural Sciences')",ABOUT
+"('r3d100011150', '31 Chemistry')",ABOUT
+"('r3d100011150', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011150', '31301 Atmospheric Science')",ABOUT
+"('r3d100011150', '317 Geography')",ABOUT
+"('r3d100011150', '31701 Physical Geography')",ABOUT
+"('r3d100011150', '318 Water Research')",ABOUT
+"('r3d100011150', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011150', 'Mediterranean')",CONTAINS
+"('r3d100011150', 'agriculture')",CONTAINS
+"('r3d100011150', 'climate change')",CONTAINS
+"('r3d100011150', 'climatology')",CONTAINS
+"('r3d100011150', 'hydrology')",CONTAINS
+"('r3d100011150', 'sustainability')",CONTAINS
+"('r3d100011150', 'water resources')",CONTAINS
+"('r3d100011150', 'Raw data')",HAS_CONTENT
+"('r3d100011150', 'Structured graphics')",HAS_CONTENT
+"('r3d100011150', 'Structured text')",HAS_CONTENT
+"('r3d100011150', 'other')",HAS_CONTENT
+"('r3d100011150', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011159', 'eng')",WRITTEN_IN
+"('r3d100011159', '3 Natural Sciences')",ABOUT
+"('r3d100011159', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011159', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011159', '317 Geography')",ABOUT
+"('r3d100011159', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011159', 'aerosol')",CONTAINS
+"('r3d100011159', 'atmosphere')",CONTAINS
+"('r3d100011159', 'climate change')",CONTAINS
+"('r3d100011159', 'climate research')",CONTAINS
+"('r3d100011159', 'geography')",CONTAINS
+"('r3d100011159', 'land')",CONTAINS
+"('r3d100011159', 'landice')",CONTAINS
+"('r3d100011159', 'ocean')",CONTAINS
+"('r3d100011159', 'seaice')",CONTAINS
+"('r3d100011159', 'simulation')",CONTAINS
+"('r3d100011159', 'topography')",CONTAINS
+"('r3d100011159', 'Databases')",HAS_CONTENT
+"('r3d100011159', 'Plain text')",HAS_CONTENT
+"('r3d100011159', 'Software applications')",HAS_CONTENT
+"('r3d100011159', 'Source code')",HAS_CONTENT
+"('r3d100011159', 'Standard office documents')",HAS_CONTENT
+"('r3d100011159', 'Structured graphics')",HAS_CONTENT
+"('r3d100011159', 'other')",HAS_CONTENT
+"('r3d100011159', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011304', 'eng')",WRITTEN_IN
+"('r3d100011304', '3 Natural Sciences')",ABOUT
+"('r3d100011304', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011304', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011304', 'historical climate data')",CONTAINS
+"('r3d100011304', 'maximum temperature (tmax')",CONTAINS
+"('r3d100011304', 'maximum vapor pressure deficit vpdmax')",CONTAINS
+"('r3d100011304', 'minimum temperature tmin')",CONTAINS
+"('r3d100011304', 'minimum vapor pressure deficit vpdmin')",CONTAINS
+"('r3d100011304', 'physical sciences')",CONTAINS
+"('r3d100011304', 'precipitation')",CONTAINS
+"('r3d100011304', 'station networks')",CONTAINS
+"('r3d100011304', 'Archived data')",HAS_CONTENT
+"('r3d100011304', 'Images')",HAS_CONTENT
+"('r3d100011304', 'Plain text')",HAS_CONTENT
+"('r3d100011304', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011304', 'Structured text')",HAS_CONTENT
+"('r3d100011304', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011344', 'eng')",WRITTEN_IN
+"('r3d100011344', '3 Natural Sciences')",ABOUT
+"('r3d100011344', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011344', '31301 Atmospheric Science')",ABOUT
+"('r3d100011344', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011344', 'climate research')",CONTAINS
+"('r3d100011344', 'Raw data')",HAS_CONTENT
+"('r3d100011344', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011344', 'Standard office documents')",HAS_CONTENT
+"('r3d100011344', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011506', 'eng')",WRITTEN_IN
+"('r3d100011506', '3 Natural Sciences')",ABOUT
+"('r3d100011506', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011506', '31301 Atmospheric Science')",ABOUT
+"('r3d100011506', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011506', 'FAIR data')",CONTAINS
+"('r3d100011506', 'atmosphere')",CONTAINS
+"('r3d100011506', 'biosphere')",CONTAINS
+"('r3d100011506', 'carbon dioxide')",CONTAINS
+"('r3d100011506', 'ecosystem')",CONTAINS
+"('r3d100011506', 'energy')",CONTAINS
+"('r3d100011506', 'measurement')",CONTAINS
+"('r3d100011506', 'meterology')",CONTAINS
+"('r3d100011506', 'physics')",CONTAINS
+"('r3d100011506', 'water vapor')",CONTAINS
+"('r3d100011506', 'Images')",HAS_CONTENT
+"('r3d100011506', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011506', 'Standard office documents')",HAS_CONTENT
+"('r3d100011506', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011630', 'eng')",WRITTEN_IN
+"('r3d100011630', '2 Life Sciences')",ABOUT
+"('r3d100011630', '201 Basic Biological and Medical Research')",ABOUT
+"('r3d100011630', '20104 Structural Biology')",ABOUT
+"('r3d100011630', '204 Microbiology, Virology and Immunology')",ABOUT
+"('r3d100011630', '21 Biology')",ABOUT
+"('r3d100011630', '22 Medicine')",ABOUT
+"('r3d100011630', 'biological adaptation')",CONTAINS
+"('r3d100011630', 'climate change')",CONTAINS
+"('r3d100011630', 'ecological genetics')",CONTAINS
+"('r3d100011630', 'evolutionary genetics')",CONTAINS
+"('r3d100011630', 'evolutionary impact')",CONTAINS
+"('r3d100011630', 'field surveys')",CONTAINS
+"('r3d100011630', 'fly population')",CONTAINS
+"('r3d100011630', 'genome')",CONTAINS
+"('r3d100011630', 'terrestrial ecology')",CONTAINS
+"('r3d100011630', 'Images')",HAS_CONTENT
+"('r3d100011630', 'Raw data')",HAS_CONTENT
+"('r3d100011630', 'Standard office documents')",HAS_CONTENT
+"('r3d100011630', 'other')",HAS_CONTENT
+"('r3d100011630', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011636', 'eng')",WRITTEN_IN
+"('r3d100011636', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100011636', '106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies')",ABOUT
+"('r3d100011636', '10601 Social and Cultural Anthropology and Ethnology/Folklore')",ABOUT
+"('r3d100011636', '10603 African, American and Oceania Studies')",ABOUT
+"('r3d100011636', '11 Humanities')",ABOUT
+"('r3d100011636', '2 Life Sciences')",ABOUT
+"('r3d100011636', '203 Zoology')",ABOUT
+"('r3d100011636', '20303 Animal Ecology, Biodiversity and Ecosystem Research')",ABOUT
+"('r3d100011636', '21 Biology')",ABOUT
+"('r3d100011636', '3 Natural Sciences')",ABOUT
+"('r3d100011636', '317 Geography')",ABOUT
+"('r3d100011636', '31702 Human Geography')",ABOUT
+"('r3d100011636', '318 Water Research')",ABOUT
+"('r3d100011636', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011636', 'Murray-Darling Basin')",CONTAINS
+"('r3d100011636', 'aborigines')",CONTAINS
+"('r3d100011636', 'climate change')",CONTAINS
+"('r3d100011636', 'ecoculture')",CONTAINS
+"('r3d100011636', 'indigenous knowledge')",CONTAINS
+"('r3d100011636', 'talking fish project')",CONTAINS
+"('r3d100011636', 'Archived data')",HAS_CONTENT
+"('r3d100011636', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011636', 'Images')",HAS_CONTENT
+"('r3d100011636', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011636', 'Standard office documents')",HAS_CONTENT
+"('r3d100011636', 'other')",HAS_CONTENT
+"('r3d100011636', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011636', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011659', 'eng')",WRITTEN_IN
+"('r3d100011659', '3 Natural Sciences')",ABOUT
+"('r3d100011659', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011659', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011659', 'MetOP')",CONTAINS
+"('r3d100011659', 'atmospheric temperature')",CONTAINS
+"('r3d100011659', 'climatology')",CONTAINS
+"('r3d100011659', 'clouds')",CONTAINS
+"('r3d100011659', 'geophysic')",CONTAINS
+"('r3d100011659', 'polar orbit')",CONTAINS
+"('r3d100011659', 'satellite')",CONTAINS
+"('r3d100011659', 'solar')",CONTAINS
+"('r3d100011659', 'water')",CONTAINS
+"('r3d100011659', 'water cycle')",CONTAINS
+"('r3d100011659', 'Archived data')",HAS_CONTENT
+"('r3d100011659', 'Images')",HAS_CONTENT
+"('r3d100011659', 'Raw data')",HAS_CONTENT
+"('r3d100011659', 'Standard office documents')",HAS_CONTENT
+"('r3d100011659', 'other')",HAS_CONTENT
+"('r3d100011659', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011673', 'eng')",WRITTEN_IN
+"('r3d100011673', 'fra')",WRITTEN_IN
+"('r3d100011673', '3 Natural Sciences')",ABOUT
+"('r3d100011673', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011673', 'Mediterranean')",CONTAINS
+"('r3d100011673', 'agriculture')",CONTAINS
+"('r3d100011673', 'atmosphere')",CONTAINS
+"('r3d100011673', 'climate')",CONTAINS
+"('r3d100011673', 'environmental ecology')",CONTAINS
+"('r3d100011673', 'fisheries')",CONTAINS
+"('r3d100011673', 'geology')",CONTAINS
+"('r3d100011673', 'hydrosphere')",CONTAINS
+"('r3d100011673', 'lithosphere')",CONTAINS
+"('r3d100011673', 'marine ecosystems')",CONTAINS
+"('r3d100011673', 'paleo-climate')",CONTAINS
+"('r3d100011673', 'social sciences')",CONTAINS
+"('r3d100011673', 'urban planning')",CONTAINS
+"('r3d100011673', 'Databases')",HAS_CONTENT
+"('r3d100011673', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011676', 'eng')",WRITTEN_IN
+"('r3d100011676', '2 Life Sciences')",ABOUT
+"('r3d100011676', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011676', '20701 Soil Sciences')",ABOUT
+"('r3d100011676', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011676', '3 Natural Sciences')",ABOUT
+"('r3d100011676', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011676', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011676', 'Alaska')",CONTAINS
+"('r3d100011676', 'Earth System Models ESMs')",CONTAINS
+"('r3d100011676', 'arctic landscapes')",CONTAINS
+"('r3d100011676', 'climate system')",CONTAINS
+"('r3d100011676', 'ecosystem')",CONTAINS
+"('r3d100011676', 'energy dynamics')",CONTAINS
+"('r3d100011676', 'geomorphology')",CONTAINS
+"('r3d100011676', 'hydrology')",CONTAINS
+"('r3d100011676', 'microtopography')",CONTAINS
+"('r3d100011676', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011676', 'Images')",HAS_CONTENT
+"('r3d100011676', 'Plain text')",HAS_CONTENT
+"('r3d100011676', 'Raw data')",HAS_CONTENT
+"('r3d100011676', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011676', 'Standard office documents')",HAS_CONTENT
+"('r3d100011676', 'Structured graphics')",HAS_CONTENT
+"('r3d100011676', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011683', 'eng')",WRITTEN_IN
+"('r3d100011683', '3 Natural Sciences')",ABOUT
+"('r3d100011683', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011683', '31302 Oceanography')",ABOUT
+"('r3d100011683', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011683', 'MODIS-Aqua')",CONTAINS
+"('r3d100011683', 'MODIS-Terra')",CONTAINS
+"('r3d100011683', 'OCTS')",CONTAINS
+"('r3d100011683', 'SeaWiFS')",CONTAINS
+"('r3d100011683', 'climate')",CONTAINS
+"('r3d100011683', 'cruises')",CONTAINS
+"('r3d100011683', 'phytoplankton')",CONTAINS
+"('r3d100011683', 'satellites')",CONTAINS
+"('r3d100011683', 'Plain text')",HAS_CONTENT
+"('r3d100011683', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011683', 'Standard office documents')",HAS_CONTENT
+"('r3d100011683', 'other')",HAS_CONTENT
+"('r3d100011683', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011684', 'eng')",WRITTEN_IN
+"('r3d100011684', '3 Natural Sciences')",ABOUT
+"('r3d100011684', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011684', '31501 Geophysics')",ABOUT
+"('r3d100011684', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011684', 'High altitude stations')",CONTAINS
+"('r3d100011684', 'alternative energy')",CONTAINS
+"('r3d100011684', 'biodiversity')",CONTAINS
+"('r3d100011684', 'climate')",CONTAINS
+"('r3d100011684', 'ecosystems')",CONTAINS
+"('r3d100011684', 'glaciers')",CONTAINS
+"('r3d100011684', 'ground data')",CONTAINS
+"('r3d100011684', 'health')",CONTAINS
+"('r3d100011684', 'instruments and sensors')",CONTAINS
+"('r3d100011684', 'paleoclimate')",CONTAINS
+"('r3d100011684', 'satellite images')",CONTAINS
+"('r3d100011684', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011684', 'Structured text')",HAS_CONTENT
+"('r3d100011684', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011686', 'eng')",WRITTEN_IN
+"('r3d100011686', '3 Natural Sciences')",ABOUT
+"('r3d100011686', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011686', 'Mediterreanen Sea')",CONTAINS
+"('r3d100011686', 'bathymetry')",CONTAINS
+"('r3d100011686', 'geology')",CONTAINS
+"('r3d100011686', 'seafloor morphology')",CONTAINS
+"('r3d100011686', 'sedimentary')",CONTAINS
+"('r3d100011686', 'techtonic')",CONTAINS
+"('r3d100011686', 'volcanic')",CONTAINS
+"('r3d100011686', 'Images')",HAS_CONTENT
+"('r3d100011686', 'Raw data')",HAS_CONTENT
+"('r3d100011686', 'Standard office documents')",HAS_CONTENT
+"('r3d100011686', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011686', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011687', 'deu')",WRITTEN_IN
+"('r3d100011687', 'eng')",WRITTEN_IN
+"('r3d100011687', '3 Natural Sciences')",ABOUT
+"('r3d100011687', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011687', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011687', 'agricultural')",CONTAINS
+"('r3d100011687', 'arctic')",CONTAINS
+"('r3d100011687', 'atmospheric chemistry')",CONTAINS
+"('r3d100011687', 'biometeorology')",CONTAINS
+"('r3d100011687', 'hydrometeorology')",CONTAINS
+"('r3d100011687', 'marine meteorology')",CONTAINS
+"('r3d100011687', 'meteorology')",CONTAINS
+"('r3d100011687', 'Images')",HAS_CONTENT
+"('r3d100011687', 'Raw data')",HAS_CONTENT
+"('r3d100011687', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011687', 'Standard office documents')",HAS_CONTENT
+"('r3d100011687', 'other')",HAS_CONTENT
+"('r3d100011687', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011699', 'eng')",WRITTEN_IN
+"('r3d100011699', '3 Natural Sciences')",ABOUT
+"('r3d100011699', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011699', '31301 Atmospheric Science')",ABOUT
+"('r3d100011699', '31302 Oceanography')",ABOUT
+"('r3d100011699', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011699', '31501 Geophysics')",ABOUT
+"('r3d100011699', '317 Geography')",ABOUT
+"('r3d100011699', '31701 Physical Geography')",ABOUT
+"('r3d100011699', '318 Water Research')",ABOUT
+"('r3d100011699', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011699', 'aerosols')",CONTAINS
+"('r3d100011699', 'biodiversity')",CONTAINS
+"('r3d100011699', 'biogeochemical cycles')",CONTAINS
+"('r3d100011699', 'climate')",CONTAINS
+"('r3d100011699', 'clouds')",CONTAINS
+"('r3d100011699', 'cryosphere')",CONTAINS
+"('r3d100011699', 'environmental science')",CONTAINS
+"('r3d100011699', 'hydrosphere')",CONTAINS
+"('r3d100011699', 'lacustrine')",CONTAINS
+"('r3d100011699', 'landscape processes')",CONTAINS
+"('r3d100011699', 'meteorology')",CONTAINS
+"('r3d100011699', 'oceans‐atmosphere dynamics')",CONTAINS
+"('r3d100011699', 'paleoclimate')",CONTAINS
+"('r3d100011699', 'physical geography')",CONTAINS
+"('r3d100011699', 'tectonic')",CONTAINS
+"('r3d100011699', 'turbulence')",CONTAINS
+"('r3d100011699', 'weather')",CONTAINS
+"('r3d100011699', 'Archived data')",HAS_CONTENT
+"('r3d100011699', 'Databases')",HAS_CONTENT
+"('r3d100011699', 'Images')",HAS_CONTENT
+"('r3d100011699', 'Raw data')",HAS_CONTENT
+"('r3d100011699', 'Standard office documents')",HAS_CONTENT
+"('r3d100011699', 'Structured graphics')",HAS_CONTENT
+"('r3d100011699', 'other')",HAS_CONTENT
+"('r3d100011699', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011699', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011704', 'eng')",WRITTEN_IN
+"('r3d100011704', '3 Natural Sciences')",ABOUT
+"('r3d100011704', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011704', '317 Geography')",ABOUT
+"('r3d100011704', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011704', 'climatology')",CONTAINS
+"('r3d100011704', 'geography')",CONTAINS
+"('r3d100011704', 'historical weather')",CONTAINS
+"('r3d100011704', 'meteorology')",CONTAINS
+"('r3d100011704', 'precipitation')",CONTAINS
+"('r3d100011704', 'weather')",CONTAINS
+"('r3d100011704', 'weather radar')",CONTAINS
+"('r3d100011704', 'Archived data')",HAS_CONTENT
+"('r3d100011704', 'Plain text')",HAS_CONTENT
+"('r3d100011704', 'Standard office documents')",HAS_CONTENT
+"('r3d100011704', 'Structured graphics')",HAS_CONTENT
+"('r3d100011704', 'other')",HAS_CONTENT
+"('r3d100011704', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011705', 'eng')",WRITTEN_IN
+"('r3d100011705', '3 Natural Sciences')",ABOUT
+"('r3d100011705', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011705', '31302 Oceanography')",ABOUT
+"('r3d100011705', '314 Geology and Palaeontology')",ABOUT
+"('r3d100011705', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011705', '317 Geography')",ABOUT
+"('r3d100011705', '318 Water Research')",ABOUT
+"('r3d100011705', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011705', 'aerosols')",CONTAINS
+"('r3d100011705', 'astrophysics')",CONTAINS
+"('r3d100011705', 'atmosphere')",CONTAINS
+"('r3d100011705', 'climate change')",CONTAINS
+"('r3d100011705', 'climate model')",CONTAINS
+"('r3d100011705', 'clouds')",CONTAINS
+"('r3d100011705', 'gases')",CONTAINS
+"('r3d100011705', 'glacier')",CONTAINS
+"('r3d100011705', 'methan')",CONTAINS
+"('r3d100011705', 'ocean circulation changes')",CONTAINS
+"('r3d100011705', 'permafrost')",CONTAINS
+"('r3d100011705', 'physical climate')",CONTAINS
+"('r3d100011705', 'sea-ice')",CONTAINS
+"('r3d100011705', 'Raw data')",HAS_CONTENT
+"('r3d100011705', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011705', 'Standard office documents')",HAS_CONTENT
+"('r3d100011705', 'Structured graphics')",HAS_CONTENT
+"('r3d100011705', 'other')",HAS_CONTENT
+"('r3d100011705', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011721', 'eng')",WRITTEN_IN
+"('r3d100011721', '2 Life Sciences')",ABOUT
+"('r3d100011721', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011721', '3 Natural Sciences')",ABOUT
+"('r3d100011721', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011721', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011721', 'air')",CONTAINS
+"('r3d100011721', 'atmospheric nitrogen chemistry')",CONTAINS
+"('r3d100011721', 'climate')",CONTAINS
+"('r3d100011721', 'habitat')",CONTAINS
+"('r3d100011721', 'invertebrates')",CONTAINS
+"('r3d100011721', 'meteorology')",CONTAINS
+"('r3d100011721', 'plant')",CONTAINS
+"('r3d100011721', 'precipitation chemistry')",CONTAINS
+"('r3d100011721', 'soil')",CONTAINS
+"('r3d100011721', 'soil solution chemistry')",CONTAINS
+"('r3d100011721', 'surface water chemistry')",CONTAINS
+"('r3d100011721', 'vertebrates')",CONTAINS
+"('r3d100011721', 'weather')",CONTAINS
+"('r3d100011721', 'Images')",HAS_CONTENT
+"('r3d100011721', 'Raw data')",HAS_CONTENT
+"('r3d100011721', 'Standard office documents')",HAS_CONTENT
+"('r3d100011721', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011726', 'deu')",WRITTEN_IN
+"('r3d100011726', 'eng')",WRITTEN_IN
+"('r3d100011726', 'fra')",WRITTEN_IN
+"('r3d100011726', '3 Natural Sciences')",ABOUT
+"('r3d100011726', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011726', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011726', 'Copernicus')",CONTAINS
+"('r3d100011726', 'European forecasts')",CONTAINS
+"('r3d100011726', 'MARS')",CONTAINS
+"('r3d100011726', 'charts')",CONTAINS
+"('r3d100011726', 'meteorology')",CONTAINS
+"('r3d100011726', 'Archived data')",HAS_CONTENT
+"('r3d100011726', 'Plain text')",HAS_CONTENT
+"('r3d100011726', 'Raw data')",HAS_CONTENT
+"('r3d100011726', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011726', 'Standard office documents')",HAS_CONTENT
+"('r3d100011726', 'Structured text')",HAS_CONTENT
+"('r3d100011726', 'other')",HAS_CONTENT
+"('r3d100011726', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011726', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011739', 'eng')",WRITTEN_IN
+"('r3d100011739', '3 Natural Sciences')",ABOUT
+"('r3d100011739', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011739', '31301 Atmospheric Science')",ABOUT
+"('r3d100011739', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011739', 'ERSST v4')",CONTAINS
+"('r3d100011739', 'Global Historical Climate Network')",CONTAINS
+"('r3d100011739', 'L-OTI')",CONTAINS
+"('r3d100011739', 'Land-Ocean Temperature Index')",CONTAINS
+"('r3d100011739', 'NOAA GHCN v3')",CONTAINS
+"('r3d100011739', 'SCARR')",CONTAINS
+"('r3d100011739', 'Scientific Committee on Arctic Research')",CONTAINS
+"('r3d100011739', 'long-term temperature')",CONTAINS
+"('r3d100011739', 'temperature anomalies')",CONTAINS
+"('r3d100011739', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011739', 'Images')",HAS_CONTENT
+"('r3d100011739', 'Plain text')",HAS_CONTENT
+"('r3d100011739', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011739', 'Standard office documents')",HAS_CONTENT
+"('r3d100011739', 'Structured graphics')",HAS_CONTENT
+"('r3d100011739', 'other')",HAS_CONTENT
+"('r3d100011739', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011741', 'eng')",WRITTEN_IN
+"('r3d100011741', 'fra')",WRITTEN_IN
+"('r3d100011741', 'rus')",WRITTEN_IN
+"('r3d100011741', 'spa')",WRITTEN_IN
+"('r3d100011741', 'zho')",WRITTEN_IN
+"('r3d100011741', '3 Natural Sciences')",ABOUT
+"('r3d100011741', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011741', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011741', 'cement production')",CONTAINS
+"('r3d100011741', 'climate')",CONTAINS
+"('r3d100011741', 'coal')",CONTAINS
+"('r3d100011741', 'dioxide')",CONTAINS
+"('r3d100011741', 'emission')",CONTAINS
+"('r3d100011741', 'fossil fuels')",CONTAINS
+"('r3d100011741', 'gas')",CONTAINS
+"('r3d100011741', 'gas flaring')",CONTAINS
+"('r3d100011741', 'global carbon cycle')",CONTAINS
+"('r3d100011741', 'land')",CONTAINS
+"('r3d100011741', 'ocean')",CONTAINS
+"('r3d100011741', 'oil')",CONTAINS
+"('r3d100011741', 'Raw data')",HAS_CONTENT
+"('r3d100011741', 'Standard office documents')",HAS_CONTENT
+"('r3d100011741', 'Structured graphics')",HAS_CONTENT
+"('r3d100011741', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011749', 'eng')",WRITTEN_IN
+"('r3d100011749', '3 Natural Sciences')",ABOUT
+"('r3d100011749', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011749', '31302 Oceanography')",ABOUT
+"('r3d100011749', '317 Geography')",ABOUT
+"('r3d100011749', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011749', 'AATAMS')",CONTAINS
+"('r3d100011749', 'climate')",CONTAINS
+"('r3d100011749', 'climatology')",CONTAINS
+"('r3d100011749', 'marine')",CONTAINS
+"('r3d100011749', 'marine sciences')",CONTAINS
+"('r3d100011749', 'ocean maps')",CONTAINS
+"('r3d100011749', 'Images')",HAS_CONTENT
+"('r3d100011749', 'Raw data')",HAS_CONTENT
+"('r3d100011749', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011749', 'Standard office documents')",HAS_CONTENT
+"('r3d100011749', 'Structured text')",HAS_CONTENT
+"('r3d100011749', 'other')",HAS_CONTENT
+"('r3d100011749', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011759', 'eng')",WRITTEN_IN
+"('r3d100011759', '3 Natural Sciences')",ABOUT
+"('r3d100011759', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011759', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011759', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011759', 'aviation weather')",CONTAINS
+"('r3d100011759', 'climate')",CONTAINS
+"('r3d100011759', 'forecast')",CONTAINS
+"('r3d100011759', 'hurricane')",CONTAINS
+"('r3d100011759', 'observations')",CONTAINS
+"('r3d100011759', 'ocean weather prediction')",CONTAINS
+"('r3d100011759', 'space weather')",CONTAINS
+"('r3d100011759', 'storm prediction')",CONTAINS
+"('r3d100011759', 'weather prediction')",CONTAINS
+"('r3d100011759', 'weather warnings')",CONTAINS
+"('r3d100011759', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011759', 'Databases')",HAS_CONTENT
+"('r3d100011759', 'Images')",HAS_CONTENT
+"('r3d100011759', 'Plain text')",HAS_CONTENT
+"('r3d100011759', 'Raw data')",HAS_CONTENT
+"('r3d100011759', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011759', 'Standard office documents')",HAS_CONTENT
+"('r3d100011759', 'Structured graphics')",HAS_CONTENT
+"('r3d100011759', 'other')",HAS_CONTENT
+"('r3d100011759', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100011763', 'eng')",WRITTEN_IN
+"('r3d100011763', '3 Natural Sciences')",ABOUT
+"('r3d100011763', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011763', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011763', '318 Water Research')",ABOUT
+"('r3d100011763', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011763', 'air-sea fluxes')",CONTAINS
+"('r3d100011763', 'climate')",CONTAINS
+"('r3d100011763', 'cloud profiling radars')",CONTAINS
+"('r3d100011763', 'satellite')",CONTAINS
+"('r3d100011763', 'weather')",CONTAINS
+"('r3d100011763', 'wind profiling radars')",CONTAINS
+"('r3d100011763', 'Raw data')",HAS_CONTENT
+"('r3d100011763', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011763', 'Standard office documents')",HAS_CONTENT
+"('r3d100011763', 'Structured graphics')",HAS_CONTENT
+"('r3d100011763', 'other')",HAS_CONTENT
+"('r3d100011763', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011764', 'eng')",WRITTEN_IN
+"('r3d100011764', '3 Natural Sciences')",ABOUT
+"('r3d100011764', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011764', '31302 Oceanography')",ABOUT
+"('r3d100011764', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100011764', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100011764', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011764', 'Arctic sea ice')",CONTAINS
+"('r3d100011764', 'atmosphere')",CONTAINS
+"('r3d100011764', 'climate')",CONTAINS
+"('r3d100011764', 'clouds')",CONTAINS
+"('r3d100011764', 'drought patterns')",CONTAINS
+"('r3d100011764', 'geophysics')",CONTAINS
+"('r3d100011764', 'hurricane trends')",CONTAINS
+"('r3d100011764', 'ocean')",CONTAINS
+"('r3d100011764', 'precipitation')",CONTAINS
+"('r3d100011764', 'satellite data')",CONTAINS
+"('r3d100011764', 'sensor data')",CONTAINS
+"('r3d100011764', 'snow and ice')",CONTAINS
+"('r3d100011764', 'terrestrial data')",CONTAINS
+"('r3d100011764', 'weather')",CONTAINS
+"('r3d100011764', 'Databases')",HAS_CONTENT
+"('r3d100011764', 'Plain text')",HAS_CONTENT
+"('r3d100011764', 'Raw data')",HAS_CONTENT
+"('r3d100011764', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011764', 'Source code')",HAS_CONTENT
+"('r3d100011764', 'Standard office documents')",HAS_CONTENT
+"('r3d100011764', 'Structured graphics')",HAS_CONTENT
+"('r3d100011764', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011781', 'eng')",WRITTEN_IN
+"('r3d100011781', '3 Natural Sciences')",ABOUT
+"('r3d100011781', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011781', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011781', 'aerosol')",CONTAINS
+"('r3d100011781', 'air quality')",CONTAINS
+"('r3d100011781', 'atmosphere')",CONTAINS
+"('r3d100011781', 'climate')",CONTAINS
+"('r3d100011781', 'industrial pollution')",CONTAINS
+"('r3d100011781', 'meteorology')",CONTAINS
+"('r3d100011781', 'ozone')",CONTAINS
+"('r3d100011781', 'radiation')",CONTAINS
+"('r3d100011781', 'stratosphere')",CONTAINS
+"('r3d100011781', 'troposphere')",CONTAINS
+"('r3d100011781', 'Audiovisual data')",HAS_CONTENT
+"('r3d100011781', 'Images')",HAS_CONTENT
+"('r3d100011781', 'Raw data')",HAS_CONTENT
+"('r3d100011781', 'Standard office documents')",HAS_CONTENT
+"('r3d100011781', 'Structured graphics')",HAS_CONTENT
+"('r3d100011781', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011790', 'eng')",WRITTEN_IN
+"('r3d100011790', '3 Natural Sciences')",ABOUT
+"('r3d100011790', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011790', '318 Water Research')",ABOUT
+"('r3d100011790', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011790', 'atmosphere')",CONTAINS
+"('r3d100011790', 'carbon')",CONTAINS
+"('r3d100011790', 'circulation')",CONTAINS
+"('r3d100011790', 'earth system')",CONTAINS
+"('r3d100011790', 'energy cycle')",CONTAINS
+"('r3d100011790', 'hydrology')",CONTAINS
+"('r3d100011790', 'sediment')",CONTAINS
+"('r3d100011790', 'water')",CONTAINS
+"('r3d100011790', 'Plain text')",HAS_CONTENT
+"('r3d100011790', 'Raw data')",HAS_CONTENT
+"('r3d100011790', 'Structured graphics')",HAS_CONTENT
+"('r3d100011790', 'other')",HAS_CONTENT
+"('r3d100011790', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011791', 'eng')",WRITTEN_IN
+"('r3d100011791', '3 Natural Sciences')",ABOUT
+"('r3d100011791', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011791', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011791', 'Bioclim')",CONTAINS
+"('r3d100011791', 'GARP')",CONTAINS
+"('r3d100011791', 'GIS')",CONTAINS
+"('r3d100011791', 'climate change projections')",CONTAINS
+"('r3d100011791', 'climate data')",CONTAINS
+"('r3d100011791', 'ecological modeling')",CONTAINS
+"('r3d100011791', 'historical climate')",CONTAINS
+"('r3d100011791', 'Raw data')",HAS_CONTENT
+"('r3d100011791', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011791', 'Structured graphics')",HAS_CONTENT
+"('r3d100011791', 'other')",HAS_CONTENT
+"('r3d100011791', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011879', 'eng')",WRITTEN_IN
+"('r3d100011879', 'nld')",WRITTEN_IN
+"('r3d100011879', '3 Natural Sciences')",ABOUT
+"('r3d100011879', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011879', '31301 Atmospheric Science')",ABOUT
+"('r3d100011879', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011879', 'atmosphere')",CONTAINS
+"('r3d100011879', 'climate')",CONTAINS
+"('r3d100011879', 'earthquake')",CONTAINS
+"('r3d100011879', 'historical weather data')",CONTAINS
+"('r3d100011879', 'model forecast')",CONTAINS
+"('r3d100011879', 'observations')",CONTAINS
+"('r3d100011879', 'satellites')",CONTAINS
+"('r3d100011879', 'seismology')",CONTAINS
+"('r3d100011879', 'station')",CONTAINS
+"('r3d100011879', 'weather foreasting')",CONTAINS
+"('r3d100011879', 'Plain text')",HAS_CONTENT
+"('r3d100011879', 'Raw data')",HAS_CONTENT
+"('r3d100011879', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011879', 'Structured graphics')",HAS_CONTENT
+"('r3d100011879', 'Structured text')",HAS_CONTENT
+"('r3d100011879', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011959', 'deu')",WRITTEN_IN
+"('r3d100011959', 'eng')",WRITTEN_IN
+"('r3d100011959', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100011959', '102 History')",ABOUT
+"('r3d100011959', '11 Humanities')",ABOUT
+"('r3d100011959', '3 Natural Sciences')",ABOUT
+"('r3d100011959', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011959', '31301 Atmospheric Science')",ABOUT
+"('r3d100011959', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011959', 'HISKLID')",CONTAINS
+"('r3d100011959', 'Weikinn')",CONTAINS
+"('r3d100011959', 'astronomical events')",CONTAINS
+"('r3d100011959', 'climate')",CONTAINS
+"('r3d100011959', 'flood marks')",CONTAINS
+"('r3d100011959', 'geophysical events')",CONTAINS
+"('r3d100011959', 'historial climatology')",CONTAINS
+"('r3d100011959', 'precipitation')",CONTAINS
+"('r3d100011959', 'storm')",CONTAINS
+"('r3d100011959', 'temperature')",CONTAINS
+"('r3d100011959', 'weather')",CONTAINS
+"('r3d100011959', 'Archived data')",HAS_CONTENT
+"('r3d100011959', 'Images')",HAS_CONTENT
+"('r3d100011959', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011959', 'Standard office documents')",HAS_CONTENT
+"('r3d100011959', 'Structured graphics')",HAS_CONTENT
+"('r3d100011959', 'other')",HAS_CONTENT
+"('r3d100011959', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011966', 'eng')",WRITTEN_IN
+"('r3d100011966', '3 Natural Sciences')",ABOUT
+"('r3d100011966', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011966', '318 Water Research')",ABOUT
+"('r3d100011966', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011966', 'HIPOCAS')",CONTAINS
+"('r3d100011966', 'Hindcast')",CONTAINS
+"('r3d100011966', 'PELLETS-2D')",CONTAINS
+"('r3d100011966', 'Re-analysis')",CONTAINS
+"('r3d100011966', 'WASA')",CONTAINS
+"('r3d100011966', 'Archived data')",HAS_CONTENT
+"('r3d100011966', 'Raw data')",HAS_CONTENT
+"('r3d100011966', 'Standard office documents')",HAS_CONTENT
+"('r3d100011966', 'Structured graphics')",HAS_CONTENT
+"('r3d100011966', 'other')",HAS_CONTENT
+"('r3d100011966', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100011981', 'eng')",WRITTEN_IN
+"('r3d100011981', 'fra')",WRITTEN_IN
+"('r3d100011981', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100011981', '112 Economics')",ABOUT
+"('r3d100011981', '11202 Economic and Social Policy')",ABOUT
+"('r3d100011981', '12 Social and Behavioural Sciences')",ABOUT
+"('r3d100011981', '2 Life Sciences')",ABOUT
+"('r3d100011981', '202 Plant Sciences')",ABOUT
+"('r3d100011981', '20202 Plant Ecology and Ecosystem Analysis')",ABOUT
+"('r3d100011981', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011981', '21 Biology')",ABOUT
+"('r3d100011981', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100011981', '3 Natural Sciences')",ABOUT
+"('r3d100011981', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100011981', '31301 Atmospheric Science')",ABOUT
+"('r3d100011981', '318 Water Research')",ABOUT
+"('r3d100011981', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100011981', 'air quality')",CONTAINS
+"('r3d100011981', 'climate change')",CONTAINS
+"('r3d100011981', 'environment')",CONTAINS
+"('r3d100011981', 'water quality')",CONTAINS
+"('r3d100011981', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100011981', 'Structured graphics')",HAS_CONTENT
+"('r3d100011981', 'other')",HAS_CONTENT
+"('r3d100011981', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012089', 'eng')",WRITTEN_IN
+"('r3d100012089', 'fra')",WRITTEN_IN
+"('r3d100012089', '3 Natural Sciences')",ABOUT
+"('r3d100012089', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012089', '31301 Atmospheric Science')",ABOUT
+"('r3d100012089', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012089', 'Intergovernmental Panel on Climate Change (IPCC)')",CONTAINS
+"('r3d100012089', 'World Climate Research Programme (WCRP)')",CONTAINS
+"('r3d100012089', 'atmospheric science')",CONTAINS
+"('r3d100012089', 'climate change')",CONTAINS
+"('r3d100012089', 'global climate')",CONTAINS
+"('r3d100012089', 'regional climate')",CONTAINS
+"('r3d100012089', 'Audiovisual data')",HAS_CONTENT
+"('r3d100012089', 'Images')",HAS_CONTENT
+"('r3d100012089', 'Plain text')",HAS_CONTENT
+"('r3d100012089', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012089', 'Structured graphics')",HAS_CONTENT
+"('r3d100012089', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012090', 'eng')",WRITTEN_IN
+"('r3d100012090', 'fra')",WRITTEN_IN
+"('r3d100012090', '3 Natural Sciences')",ABOUT
+"('r3d100012090', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012090', '31301 Atmospheric Science')",ABOUT
+"('r3d100012090', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012090', 'bioclimate profiles')",CONTAINS
+"('r3d100012090', 'climate changes')",CONTAINS
+"('r3d100012090', 'climate modelling')",CONTAINS
+"('r3d100012090', 'precipitation')",CONTAINS
+"('r3d100012090', 'rainfall')",CONTAINS
+"('r3d100012090', 'snowfall')",CONTAINS
+"('r3d100012090', 'temperature')",CONTAINS
+"('r3d100012090', 'Databases')",HAS_CONTENT
+"('r3d100012090', 'Images')",HAS_CONTENT
+"('r3d100012090', 'Plain text')",HAS_CONTENT
+"('r3d100012090', 'Raw data')",HAS_CONTENT
+"('r3d100012090', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012090', 'Standard office documents')",HAS_CONTENT
+"('r3d100012090', 'Structured graphics')",HAS_CONTENT
+"('r3d100012090', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012094', 'eng')",WRITTEN_IN
+"('r3d100012094', 'fra')",WRITTEN_IN
+"('r3d100012094', '3 Natural Sciences')",ABOUT
+"('r3d100012094', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012094', '31301 Atmospheric Science')",ABOUT
+"('r3d100012094', '318 Water Research')",ABOUT
+"('r3d100012094', '31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management')",ABOUT
+"('r3d100012094', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012094', 'climatology')",CONTAINS
+"('r3d100012094', 'meteorology')",CONTAINS
+"('r3d100012094', 'precipitation')",CONTAINS
+"('r3d100012094', 'surface air temperature')",CONTAINS
+"('r3d100012094', 'surface pressure')",CONTAINS
+"('r3d100012094', 'surface wind speed')",CONTAINS
+"('r3d100012094', 'Databases')",HAS_CONTENT
+"('r3d100012094', 'Standard office documents')",HAS_CONTENT
+"('r3d100012094', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012138', 'eng')",WRITTEN_IN
+"('r3d100012138', '3 Natural Sciences')",ABOUT
+"('r3d100012138', '311 Astrophysics and Astronomy')",ABOUT
+"('r3d100012138', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012138', '31301 Atmospheric Science')",ABOUT
+"('r3d100012138', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012138', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100012138', '32 Physics')",ABOUT
+"('r3d100012138', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012138', ""NASA''s Earth Observing System"")",CONTAINS
+"('r3d100012138', 'aerospace')",CONTAINS
+"('r3d100012138', 'atmosphere')",CONTAINS
+"('r3d100012138', 'carbon cycle')",CONTAINS
+"('r3d100012138', 'climate change')",CONTAINS
+"('r3d100012138', 'earth science')",CONTAINS
+"('r3d100012138', 'remote sensing')",CONTAINS
+"('r3d100012138', 'satellite')",CONTAINS
+"('r3d100012138', 'water')",CONTAINS
+"('r3d100012138', 'weather')",CONTAINS
+"('r3d100012138', 'Audiovisual data')",HAS_CONTENT
+"('r3d100012138', 'Images')",HAS_CONTENT
+"('r3d100012138', 'Raw data')",HAS_CONTENT
+"('r3d100012138', 'Structured graphics')",HAS_CONTENT
+"('r3d100012138', 'other')",HAS_CONTENT
+"('r3d100012138', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012141', 'eng')",WRITTEN_IN
+"('r3d100012141', '3 Natural Sciences')",ABOUT
+"('r3d100012141', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012141', '31301 Atmospheric Science')",ABOUT
+"('r3d100012141', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012141', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100012141', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012141', 'CLIPC')",CONTAINS
+"('r3d100012141', 'CMIP5')",CONTAINS
+"('r3d100012141', 'CORDEX')",CONTAINS
+"('r3d100012141', 'SPECS')",CONTAINS
+"('r3d100012141', 'climate change')",CONTAINS
+"('r3d100012141', 'energy')",CONTAINS
+"('r3d100012141', 'marine coastal')",CONTAINS
+"('r3d100012141', 'nature biodiversity')",CONTAINS
+"('r3d100012141', 'tourism')",CONTAINS
+"('r3d100012141', 'urban infrastructure')",CONTAINS
+"('r3d100012141', 'water management')",CONTAINS
+"('r3d100012141', 'Images')",HAS_CONTENT
+"('r3d100012141', 'Plain text')",HAS_CONTENT
+"('r3d100012141', 'Standard office documents')",HAS_CONTENT
+"('r3d100012141', 'other')",HAS_CONTENT
+"('r3d100012141', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012163', 'eng')",WRITTEN_IN
+"('r3d100012163', '3 Natural Sciences')",ABOUT
+"('r3d100012163', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012163', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012163', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100012163', '317 Geography')",ABOUT
+"('r3d100012163', '318 Water Research')",ABOUT
+"('r3d100012163', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012163', 'GPM')",CONTAINS
+"('r3d100012163', 'TRMM')",CONTAINS
+"('r3d100012163', 'agriculture')",CONTAINS
+"('r3d100012163', 'climate dynamics')",CONTAINS
+"('r3d100012163', 'climate prediction')",CONTAINS
+"('r3d100012163', 'cyclones')",CONTAINS
+"('r3d100012163', 'extreme weather')",CONTAINS
+"('r3d100012163', 'floods')",CONTAINS
+"('r3d100012163', 'freshwater')",CONTAINS
+"('r3d100012163', 'global water cycle')",CONTAINS
+"('r3d100012163', 'landslides')",CONTAINS
+"('r3d100012163', 'microphysics')",CONTAINS
+"('r3d100012163', 'tropical storm')",CONTAINS
+"('r3d100012163', 'Audiovisual data')",HAS_CONTENT
+"('r3d100012163', 'Databases')",HAS_CONTENT
+"('r3d100012163', 'Images')",HAS_CONTENT
+"('r3d100012163', 'Plain text')",HAS_CONTENT
+"('r3d100012163', 'Raw data')",HAS_CONTENT
+"('r3d100012163', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012163', 'Standard office documents')",HAS_CONTENT
+"('r3d100012163', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012288', 'deu')",WRITTEN_IN
+"('r3d100012288', 'eng')",WRITTEN_IN
+"('r3d100012288', '3 Natural Sciences')",ABOUT
+"('r3d100012288', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012288', '31301 Atmospheric Science')",ABOUT
+"('r3d100012288', '317 Geography')",ABOUT
+"('r3d100012288', '31701 Physical Geography')",ABOUT
+"('r3d100012288', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012288', 'climate indices')",CONTAINS
+"('r3d100012288', 'climate information')",CONTAINS
+"('r3d100012288', 'models')",CONTAINS
+"('r3d100012288', 'temperature')",CONTAINS
+"('r3d100012288', 'Archived data')",HAS_CONTENT
+"('r3d100012288', 'Configuration data')",HAS_CONTENT
+"('r3d100012288', 'Databases')",HAS_CONTENT
+"('r3d100012288', 'Images')",HAS_CONTENT
+"('r3d100012288', 'Raw data')",HAS_CONTENT
+"('r3d100012288', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012288', 'Standard office documents')",HAS_CONTENT
+"('r3d100012288', 'Structured text')",HAS_CONTENT
+"('r3d100012288', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012288', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012305', 'eng')",WRITTEN_IN
+"('r3d100012305', '3 Natural Sciences')",ABOUT
+"('r3d100012305', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012305', '31301 Atmospheric Science')",ABOUT
+"('r3d100012305', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012305', 'atmospheric sciences')",CONTAINS
+"('r3d100012305', 'climate')",CONTAINS
+"('r3d100012305', 'earth observation')",CONTAINS
+"('r3d100012305', 'environment')",CONTAINS
+"('r3d100012305', 'meterology')",CONTAINS
+"('r3d100012305', 'weather')",CONTAINS
+"('r3d100012305', 'Images')",HAS_CONTENT
+"('r3d100012305', 'Raw data')",HAS_CONTENT
+"('r3d100012305', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012305', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012340', 'eng')",WRITTEN_IN
+"('r3d100012340', '2 Life Sciences')",ABOUT
+"('r3d100012340', '203 Zoology')",ABOUT
+"('r3d100012340', '21 Biology')",ABOUT
+"('r3d100012340', '3 Natural Sciences')",ABOUT
+"('r3d100012340', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012340', '31302 Oceanography')",ABOUT
+"('r3d100012340', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012340', 'CPR Continuous Plankton Recorder')",CONTAINS
+"('r3d100012340', 'North Atlantic')",CONTAINS
+"('r3d100012340', 'North Pacific')",CONTAINS
+"('r3d100012340', 'South Atlantic')",CONTAINS
+"('r3d100012340', 'biology')",CONTAINS
+"('r3d100012340', 'climate change')",CONTAINS
+"('r3d100012340', 'ecology')",CONTAINS
+"('r3d100012340', 'marine biodiversity')",CONTAINS
+"('r3d100012340', 'marine plankton')",CONTAINS
+"('r3d100012340', 'Images')",HAS_CONTENT
+"('r3d100012340', 'Raw data')",HAS_CONTENT
+"('r3d100012340', 'other')",HAS_CONTENT
+"('r3d100012340', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012431', 'eng')",WRITTEN_IN
+"('r3d100012431', '3 Natural Sciences')",ABOUT
+"('r3d100012431', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012431', '31301 Atmospheric Science')",ABOUT
+"('r3d100012431', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012431', 'AMSU')",CONTAINS
+"('r3d100012431', 'Aqua satellite')",CONTAINS
+"('r3d100012431', 'Earth Observing System - EOS')",CONTAINS
+"('r3d100012431', 'HSB')",CONTAINS
+"('r3d100012431', 'atmosphere')",CONTAINS
+"('r3d100012431', 'atmospheric dynamics')",CONTAINS
+"('r3d100012431', 'atmospheric science')",CONTAINS
+"('r3d100012431', 'climate science')",CONTAINS
+"('r3d100012431', 'gravity')",CONTAINS
+"('r3d100012431', 'stratosphere')",CONTAINS
+"('r3d100012431', 'Images')",HAS_CONTENT
+"('r3d100012431', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012431', 'Structured graphics')",HAS_CONTENT
+"('r3d100012431', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012490', 'eng')",WRITTEN_IN
+"('r3d100012490', '3 Natural Sciences')",ABOUT
+"('r3d100012490', '311 Astrophysics and Astronomy')",ABOUT
+"('r3d100012490', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012490', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012490', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100012490', '32 Physics')",ABOUT
+"('r3d100012490', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012490', 'A-train')",CONTAINS
+"('r3d100012490', 'aerosols')",CONTAINS
+"('r3d100012490', 'air quality')",CONTAINS
+"('r3d100012490', 'climate')",CONTAINS
+"('r3d100012490', 'clouds')",CONTAINS
+"('r3d100012490', 'weather')",CONTAINS
+"('r3d100012490', 'Images')",HAS_CONTENT
+"('r3d100012490', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012490', 'Structured graphics')",HAS_CONTENT
+"('r3d100012490', 'other')",HAS_CONTENT
+"('r3d100012490', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012491', 'eng')",WRITTEN_IN
+"('r3d100012491', '3 Natural Sciences')",ABOUT
+"('r3d100012491', '311 Astrophysics and Astronomy')",ABOUT
+"('r3d100012491', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012491', '31301 Atmospheric Science')",ABOUT
+"('r3d100012491', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012491', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100012491', '32 Physics')",ABOUT
+"('r3d100012491', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012491', 'atmospheric longwave')",CONTAINS
+"('r3d100012491', 'atmospheric shortwave')",CONTAINS
+"('r3d100012491', 'climate change')",CONTAINS
+"('r3d100012491', 'earth radiation budget')",CONTAINS
+"('r3d100012491', 'hydrometeorology')",CONTAINS
+"('r3d100012491', 'Images')",HAS_CONTENT
+"('r3d100012491', 'Plain text')",HAS_CONTENT
+"('r3d100012491', 'Raw data')",HAS_CONTENT
+"('r3d100012491', 'Standard office documents')",HAS_CONTENT
+"('r3d100012491', 'Structured graphics')",HAS_CONTENT
+"('r3d100012491', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012498', 'eng')",WRITTEN_IN
+"('r3d100012498', '3 Natural Sciences')",ABOUT
+"('r3d100012498', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012498', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012498', 'Community Climate Model - CCM')",CONTAINS
+"('r3d100012498', 'atmospheric')",CONTAINS
+"('r3d100012498', 'climate model')",CONTAINS
+"('r3d100012498', 'earth')",CONTAINS
+"('r3d100012498', 'forecasting')",CONTAINS
+"('r3d100012498', 'geoengeneering')",CONTAINS
+"('r3d100012498', 'ice')",CONTAINS
+"('r3d100012498', 'land surface')",CONTAINS
+"('r3d100012498', 'ocean')",CONTAINS
+"('r3d100012498', 'simulation')",CONTAINS
+"('r3d100012498', 'Raw data')",HAS_CONTENT
+"('r3d100012498', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012498', 'Standard office documents')",HAS_CONTENT
+"('r3d100012498', 'Structured graphics')",HAS_CONTENT
+"('r3d100012498', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012500', 'eng')",WRITTEN_IN
+"('r3d100012500', '3 Natural Sciences')",ABOUT
+"('r3d100012500', '302 Chemical Solid State and Surface Research')",ABOUT
+"('r3d100012500', '30203 Theory and Modelling')",ABOUT
+"('r3d100012500', '31 Chemistry')",ABOUT
+"('r3d100012500', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012500', '31301 Atmospheric Science')",ABOUT
+"('r3d100012500', '31302 Oceanography')",ABOUT
+"('r3d100012500', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012500', 'climate')",CONTAINS
+"('r3d100012500', 'earth science')",CONTAINS
+"('r3d100012500', 'meteorology')",CONTAINS
+"('r3d100012500', 'temperature')",CONTAINS
+"('r3d100012500', 'troposhere')",CONTAINS
+"('r3d100012500', 'weather')",CONTAINS
+"('r3d100012500', 'Audiovisual data')",HAS_CONTENT
+"('r3d100012500', 'Images')",HAS_CONTENT
+"('r3d100012500', 'Raw data')",HAS_CONTENT
+"('r3d100012500', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012500', 'Standard office documents')",HAS_CONTENT
+"('r3d100012500', 'Structured graphics')",HAS_CONTENT
+"('r3d100012500', 'other')",HAS_CONTENT
+"('r3d100012500', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012500', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012561', 'eng')",WRITTEN_IN
+"('r3d100012561', '2 Life Sciences')",ABOUT
+"('r3d100012561', '202 Plant Sciences')",ABOUT
+"('r3d100012561', '204 Microbiology, Virology and Immunology')",ABOUT
+"('r3d100012561', '21 Biology')",ABOUT
+"('r3d100012561', '22 Medicine')",ABOUT
+"('r3d100012561', 'Diversity Workbench')",CONTAINS
+"('r3d100012561', 'descriptive data')",CONTAINS
+"('r3d100012561', 'ectomycorrhizae')",CONTAINS
+"('r3d100012561', 'fungi')",CONTAINS
+"('r3d100012561', 'identification key')",CONTAINS
+"('r3d100012561', 'mycorrhiza')",CONTAINS
+"('r3d100012561', 'plants')",CONTAINS
+"('r3d100012561', 'trait data')",CONTAINS
+"('r3d100012561', 'Databases')",HAS_CONTENT
+"('r3d100012561', 'Images')",HAS_CONTENT
+"('r3d100012561', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012585', 'eng')",WRITTEN_IN
+"('r3d100012585', '3 Natural Sciences')",ABOUT
+"('r3d100012585', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012585', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012585', '317 Geography')",ABOUT
+"('r3d100012585', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012585', 'CMIP5')",CONTAINS
+"('r3d100012585', 'climate')",CONTAINS
+"('r3d100012585', 'earth science')",CONTAINS
+"('r3d100012585', 'environmental science')",CONTAINS
+"('r3d100012585', 'Databases')",HAS_CONTENT
+"('r3d100012585', 'Images')",HAS_CONTENT
+"('r3d100012585', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012585', 'Software applications')",HAS_CONTENT
+"('r3d100012585', 'Source code')",HAS_CONTENT
+"('r3d100012585', 'Standard office documents')",HAS_CONTENT
+"('r3d100012585', 'Structured graphics')",HAS_CONTENT
+"('r3d100012585', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012594', 'eng')",WRITTEN_IN
+"('r3d100012594', '2 Life Sciences')",ABOUT
+"('r3d100012594', '202 Plant Sciences')",ABOUT
+"('r3d100012594', '20202 Plant Ecology and Ecosystem Analysis')",ABOUT
+"('r3d100012594', '21 Biology')",ABOUT
+"('r3d100012594', '3 Natural Sciences')",ABOUT
+"('r3d100012594', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012594', '31302 Oceanography')",ABOUT
+"('r3d100012594', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012594', 'biodiversity')",CONTAINS
+"('r3d100012594', 'boreal coastal ecysystems')",CONTAINS
+"('r3d100012594', 'ecology')",CONTAINS
+"('r3d100012594', 'global change')",CONTAINS
+"('r3d100012594', 'kelp forests')",CONTAINS
+"('r3d100012594', 'marine reef')",CONTAINS
+"('r3d100012594', 'ocean')",CONTAINS
+"('r3d100012594', 'Databases')",HAS_CONTENT
+"('r3d100012594', 'Images')",HAS_CONTENT
+"('r3d100012594', 'Plain text')",HAS_CONTENT
+"('r3d100012594', 'Raw data')",HAS_CONTENT
+"('r3d100012594', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012594', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012594', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012800', 'eng')",WRITTEN_IN
+"('r3d100012800', 'fra')",WRITTEN_IN
+"('r3d100012800', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100012800', '2 Life Sciences')",ABOUT
+"('r3d100012800', '3 Natural Sciences')",ABOUT
+"('r3d100012800', '4 Engineering Sciences')",ABOUT
+"('r3d100012800', 'Canada')",CONTAINS
+"('r3d100012800', 'multidisciplinary')",CONTAINS
+"('r3d100012800', 'Archived data')",HAS_CONTENT
+"('r3d100012800', 'Plain text')",HAS_CONTENT
+"('r3d100012800', 'Standard office documents')",HAS_CONTENT
+"('r3d100012800', 'Structured text')",HAS_CONTENT
+"('r3d100012800', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012894', 'eng')",WRITTEN_IN
+"('r3d100012894', '3 Natural Sciences')",ABOUT
+"('r3d100012894', '314 Geology and Palaeontology')",ABOUT
+"('r3d100012894', '31401 Geology and Palaeontology')",ABOUT
+"('r3d100012894', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012894', '317 Geography')",ABOUT
+"('r3d100012894', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012894', 'atmosphere')",CONTAINS
+"('r3d100012894', 'biosphere')",CONTAINS
+"('r3d100012894', 'climate changes')",CONTAINS
+"('r3d100012894', 'climatology')",CONTAINS
+"('r3d100012894', 'corals')",CONTAINS
+"('r3d100012894', 'earth history')",CONTAINS
+"('r3d100012894', 'ice sheets')",CONTAINS
+"('r3d100012894', 'microfossils')",CONTAINS
+"('r3d100012894', 'paleoclimate data standards')",CONTAINS
+"('r3d100012894', 'paleoclimatology')",CONTAINS
+"('r3d100012894', 'physical geography')",CONTAINS
+"('r3d100012894', 'rocks')",CONTAINS
+"('r3d100012894', 'sediments')",CONTAINS
+"('r3d100012894', 'shells')",CONTAINS
+"('r3d100012894', 'tree rings')",CONTAINS
+"('r3d100012894', 'Images')",HAS_CONTENT
+"('r3d100012894', 'Raw data')",HAS_CONTENT
+"('r3d100012894', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012894', 'Software applications')",HAS_CONTENT
+"('r3d100012894', 'Structured graphics')",HAS_CONTENT
+"('r3d100012894', 'other')",HAS_CONTENT
+"('r3d100012894', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012899', 'eng')",WRITTEN_IN
+"('r3d100012899', '3 Natural Sciences')",ABOUT
+"('r3d100012899', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012899', '31301 Atmospheric Science')",ABOUT
+"('r3d100012899', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012899', 'Kelvin wave energetics')",CONTAINS
+"('r3d100012899', 'circulation maps')",CONTAINS
+"('r3d100012899', 'hovmöller diagrams')",CONTAINS
+"('r3d100012899', 'polar maps')",CONTAINS
+"('r3d100012899', 'tropical zonal winds')",CONTAINS
+"('r3d100012899', 'Images')",HAS_CONTENT
+"('r3d100012899', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012899', 'Software applications')",HAS_CONTENT
+"('r3d100012899', 'Standard office documents')",HAS_CONTENT
+"('r3d100012899', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100012909', 'eng')",WRITTEN_IN
+"('r3d100012909', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100012909', '3 Natural Sciences')",ABOUT
+"('r3d100012909', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012909', '31302 Oceanography')",ABOUT
+"('r3d100012909', '314 Geology and Palaeontology')",ABOUT
+"('r3d100012909', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012909', 'FAIR')",CONTAINS
+"('r3d100012909', 'climate change')",CONTAINS
+"('r3d100012909', 'natural science')",CONTAINS
+"('r3d100012909', 'research data')",CONTAINS
+"('r3d100012909', 'Networkbased data')",HAS_CONTENT
+"('r3d100012909', 'Plain text')",HAS_CONTENT
+"('r3d100012909', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012909', 'Software applications')",HAS_CONTENT
+"('r3d100012909', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100012935', 'eng')",WRITTEN_IN
+"('r3d100012935', '3 Natural Sciences')",ABOUT
+"('r3d100012935', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100012935', '31301 Atmospheric Science')",ABOUT
+"('r3d100012935', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100012935', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100012935', '317 Geography')",ABOUT
+"('r3d100012935', '31702 Human Geography')",ABOUT
+"('r3d100012935', '318 Water Research')",ABOUT
+"('r3d100012935', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100012935', 'SLTS')",CONTAINS
+"('r3d100012935', ""Simulation Laboratory 'Terrestrial Systems'"")",CONTAINS
+"('r3d100012935', 'TSMP')",CONTAINS
+"('r3d100012935', 'Terrestrial Systems Modeling Platform')",CONTAINS
+"('r3d100012935', 'atmosphere')",CONTAINS
+"('r3d100012935', 'climatology')",CONTAINS
+"('r3d100012935', 'groundwater')",CONTAINS
+"('r3d100012935', 'land-surface')",CONTAINS
+"('r3d100012935', 'simulation')",CONTAINS
+"('r3d100012935', 'Images')",HAS_CONTENT
+"('r3d100012935', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100012935', 'other')",HAS_CONTENT
+"('r3d100012935', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013130', 'eng')",WRITTEN_IN
+"('r3d100013130', '2 Life Sciences')",ABOUT
+"('r3d100013130', '202 Plant Sciences')",ABOUT
+"('r3d100013130', '20202 Plant Ecology and Ecosystem Analysis')",ABOUT
+"('r3d100013130', '21 Biology')",ABOUT
+"('r3d100013130', '3 Natural Sciences')",ABOUT
+"('r3d100013130', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013130', 'biogeoclimatic zone')",CONTAINS
+"('r3d100013130', 'biological life cycle')",CONTAINS
+"('r3d100013130', 'citizen science')",CONTAINS
+"('r3d100013130', 'climate')",CONTAINS
+"('r3d100013130', 'continental-scale phenological observatory')",CONTAINS
+"('r3d100013130', 'phenology')",CONTAINS
+"('r3d100013130', 'photoperiod')",CONTAINS
+"('r3d100013130', 'temperature')",CONTAINS
+"('r3d100013130', 'vegetation')",CONTAINS
+"('r3d100013130', 'Images')",HAS_CONTENT
+"('r3d100013130', 'other')",HAS_CONTENT
+"('r3d100013130', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013158', 'eng')",WRITTEN_IN
+"('r3d100013158', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100013158', '101 Ancient Cultures')",ABOUT
+"('r3d100013158', '11 Humanities')",ABOUT
+"('r3d100013158', 'BCLIMATE simulation')",CONTAINS
+"('r3d100013158', 'COSMO-CLM')",CONTAINS
+"('r3d100013158', 'ECHAM')",CONTAINS
+"('r3d100013158', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013158', 'Structured text')",HAS_CONTENT
+"('r3d100013158', 'other')",HAS_CONTENT
+"('r3d100013158', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013232', 'eng')",WRITTEN_IN
+"('r3d100013232', '3 Natural Sciences')",ABOUT
+"('r3d100013232', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100013232', '31302 Oceanography')",ABOUT
+"('r3d100013232', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013232', 'climate change')",CONTAINS
+"('r3d100013232', 'coastal areas')",CONTAINS
+"('r3d100013232', 'marine resources')",CONTAINS
+"('r3d100013232', 'Archived data')",HAS_CONTENT
+"('r3d100013232', 'Images')",HAS_CONTENT
+"('r3d100013232', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013232', 'Source code')",HAS_CONTENT
+"('r3d100013232', 'other')",HAS_CONTENT
+"('r3d100013232', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013260', 'eng')",WRITTEN_IN
+"('r3d100013260', '2 Life Sciences')",ABOUT
+"('r3d100013260', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100013260', '20701 Soil Sciences')",ABOUT
+"('r3d100013260', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100013260', '3 Natural Sciences')",ABOUT
+"('r3d100013260', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100013260', '31301 Atmospheric Science')",ABOUT
+"('r3d100013260', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013260', 'carbon dioxide')",CONTAINS
+"('r3d100013260', 'climate')",CONTAINS
+"('r3d100013260', 'ecosystem')",CONTAINS
+"('r3d100013260', 'Archived data')",HAS_CONTENT
+"('r3d100013260', 'Images')",HAS_CONTENT
+"('r3d100013260', 'Plain text')",HAS_CONTENT
+"('r3d100013260', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013260', 'Standard office documents')",HAS_CONTENT
+"('r3d100013260', 'Structured graphics')",HAS_CONTENT
+"('r3d100013260', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013372', 'eng')",WRITTEN_IN
+"('r3d100013372', '3 Natural Sciences')",ABOUT
+"('r3d100013372', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100013372', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100013372', '317 Geography')",ABOUT
+"('r3d100013372', '31701 Physical Geography')",ABOUT
+"('r3d100013372', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013372', 'climate')",CONTAINS
+"('r3d100013372', 'environmental data')",CONTAINS
+"('r3d100013372', 'hydrology')",CONTAINS
+"('r3d100013372', 'land cover')",CONTAINS
+"('r3d100013372', 'land degradation')",CONTAINS
+"('r3d100013372', 'soil')",CONTAINS
+"('r3d100013372', 'terrain data')",CONTAINS
+"('r3d100013372', 'vegetation')",CONTAINS
+"('r3d100013372', 'Archived data')",HAS_CONTENT
+"('r3d100013372', 'Images')",HAS_CONTENT
+"('r3d100013372', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013372', 'Standard office documents')",HAS_CONTENT
+"('r3d100013372', 'Structured text')",HAS_CONTENT
+"('r3d100013372', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013372', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100013383', 'eng')",WRITTEN_IN
+"('r3d100013383', '1 Humanities and Social Sciences')",ABOUT
+"('r3d100013383', '101 Ancient Cultures')",ABOUT
+"('r3d100013383', '10101 Prehistory')",ABOUT
+"('r3d100013383', '10104 Classical Archaeology')",ABOUT
+"('r3d100013383', '10105 Egyptology and Ancient Near Eastern Studies')",ABOUT
+"('r3d100013383', '102 History')",ABOUT
+"('r3d100013383', '11 Humanities')",ABOUT
+"('r3d100013383', '3 Natural Sciences')",ABOUT
+"('r3d100013383', '301 Molecular Chemistry')",ABOUT
+"('r3d100013383', '305 Biological Chemistry and Food Chemistry')",ABOUT
+"('r3d100013383', '30502 Food Chemistry')",ABOUT
+"('r3d100013383', '31 Chemistry')",ABOUT
+"('r3d100013383', '316 Geochemistry, Mineralogy and Crystallography')",ABOUT
+"('r3d100013383', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013383', 'animal')",CONTAINS
+"('r3d100013383', 'anthropology')",CONTAINS
+"('r3d100013383', 'archaeobotany')",CONTAINS
+"('r3d100013383', 'archaeology')",CONTAINS
+"('r3d100013383', 'bioarchaeology')",CONTAINS
+"('r3d100013383', 'diet')",CONTAINS
+"('r3d100013383', 'human')",CONTAINS
+"('r3d100013383', 'isotope')",CONTAINS
+"('r3d100013383', 'mobility')",CONTAINS
+"('r3d100013383', 'organic residue')",CONTAINS
+"('r3d100013383', 'paleoclimate')",CONTAINS
+"('r3d100013383', 'paleoenvironmental changes')",CONTAINS
+"('r3d100013383', 'plant')",CONTAINS
+"('r3d100013383', 'zooarchaeology')",CONTAINS
+"('r3d100013383', 'Plain text')",HAS_CONTENT
+"('r3d100013383', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013383', 'Standard office documents')",HAS_CONTENT
+"('r3d100013383', 'Structured text')",HAS_CONTENT
+"('r3d100013383', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013404', 'eng')",WRITTEN_IN
+"('r3d100013404', '2 Life Sciences')",ABOUT
+"('r3d100013404', '21 Biology')",ABOUT
+"('r3d100013404', '3 Natural Sciences')",ABOUT
+"('r3d100013404', '31 Chemistry')",ABOUT
+"('r3d100013404', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100013404', '31302 Oceanography')",ABOUT
+"('r3d100013404', '32 Physics')",ABOUT
+"('r3d100013404', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013404', 'biodiversity')",CONTAINS
+"('r3d100013404', 'environment')",CONTAINS
+"('r3d100013404', 'in-situ observations')",CONTAINS
+"('r3d100013404', 'marine pollution')",CONTAINS
+"('r3d100013404', 'maritime routing')",CONTAINS
+"('r3d100013404', 'maritime security')",CONTAINS
+"('r3d100013404', 'modelling')",CONTAINS
+"('r3d100013404', 'monitoring')",CONTAINS
+"('r3d100013404', 'ocean indicators')",CONTAINS
+"('r3d100013404', 'satellite')",CONTAINS
+"('r3d100013404', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013404', 'Standard office documents')",HAS_CONTENT
+"('r3d100013404', 'other')",HAS_CONTENT
+"('r3d100013404', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013469', 'eng')",WRITTEN_IN
+"('r3d100013469', '3 Natural Sciences')",ABOUT
+"('r3d100013469', '315 Geophysics and Geodesy')",ABOUT
+"('r3d100013469', '31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy')",ABOUT
+"('r3d100013469', '317 Geography')",ABOUT
+"('r3d100013469', '318 Water Research')",ABOUT
+"('r3d100013469', '31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management')",ABOUT
+"('r3d100013469', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013469', 'biodiversity')",CONTAINS
+"('r3d100013469', 'climate')",CONTAINS
+"('r3d100013469', 'climatology')",CONTAINS
+"('r3d100013469', 'cloud cover')",CONTAINS
+"('r3d100013469', 'dem')",CONTAINS
+"('r3d100013469', 'ecosystems')",CONTAINS
+"('r3d100013469', 'freshwater')",CONTAINS
+"('r3d100013469', 'land cover')",CONTAINS
+"('r3d100013469', 'precipitation')",CONTAINS
+"('r3d100013469', 'remote sensing')",CONTAINS
+"('r3d100013469', 'spatial habitat heterogeneity')",CONTAINS
+"('r3d100013469', 'topography')",CONTAINS
+"('r3d100013469', 'Archived data')",HAS_CONTENT
+"('r3d100013469', 'Databases')",HAS_CONTENT
+"('r3d100013469', 'Images')",HAS_CONTENT
+"('r3d100013469', 'Plain text')",HAS_CONTENT
+"('r3d100013469', 'Raw data')",HAS_CONTENT
+"('r3d100013469', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013469', 'Standard office documents')",HAS_CONTENT
+"('r3d100013469', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013469', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100013512', 'eng')",WRITTEN_IN
+"('r3d100013512', '4 Engineering Sciences')",ABOUT
+"('r3d100013512', '44 Computer Science, Electrical and System Engineering')",ABOUT
+"('r3d100013512', 'FAIR')",CONTAINS
+"('r3d100013512', 'community database')",CONTAINS
+"('r3d100013512', 'energy system analysis')",CONTAINS
+"('r3d100013512', 'open energy data')",CONTAINS
+"('r3d100013512', 'power system modelling')",CONTAINS
+"('r3d100013512', 'Archived data')",HAS_CONTENT
+"('r3d100013512', 'Databases')",HAS_CONTENT
+"('r3d100013512', 'Raw data')",HAS_CONTENT
+"('r3d100013512', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013512', 'Software applications')",HAS_CONTENT
+"('r3d100013512', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013512', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100013582', 'eng')",WRITTEN_IN
+"('r3d100013582', '3 Natural Sciences')",ABOUT
+"('r3d100013582', '313 Atmospheric Science and Oceanography')",ABOUT
+"('r3d100013582', '31301 Atmospheric Science')",ABOUT
+"('r3d100013582', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013582', 'atmospheric sciences')",CONTAINS
+"('r3d100013582', 'environmental sciences')",CONTAINS
+"('r3d100013582', 'geophysical sciences')",CONTAINS
+"('r3d100013582', 'meteorology')",CONTAINS
+"('r3d100013582', 'Archived data')",HAS_CONTENT
+"('r3d100013582', 'Plain text')",HAS_CONTENT
+"('r3d100013582', 'Raw data')",HAS_CONTENT
+"('r3d100013582', 'Source code')",HAS_CONTENT
+"('r3d100013582', 'Structured text')",HAS_CONTENT
+"('r3d100013582', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013636', 'eng')",WRITTEN_IN
+"('r3d100013636', '2 Life Sciences')",ABOUT
+"('r3d100013636', '202 Plant Sciences')",ABOUT
+"('r3d100013636', '20204 Plant Physiology')",ABOUT
+"('r3d100013636', '21 Biology')",ABOUT
+"('r3d100013636', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100013636', 'climate change')",CONTAINS
+"('r3d100013636', 'earth system')",CONTAINS
+"('r3d100013636', 'ecosystem')",CONTAINS
+"('r3d100013636', 'environment')",CONTAINS
+"('r3d100013636', 'meteorology')",CONTAINS
+"('r3d100013636', 'soil hydrology')",CONTAINS
+"('r3d100013636', 'tropical forest')",CONTAINS
+"('r3d100013636', 'vegetation')",CONTAINS
+"('r3d100013636', 'water-table dynamics')",CONTAINS
+"('r3d100013636', 'Raw data')",HAS_CONTENT
+"('r3d100013636', 'dataProvider')",HAS_PROVIDER_TYPE
+"('r3d100013636', 'serviceProvider')",HAS_PROVIDER_TYPE
+"('r3d100013641', 'eng')",WRITTEN_IN
+"('r3d100013641', '2 Life Sciences')",ABOUT
+"('r3d100013641', '207 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100013641', '20701 Soil Sciences')",ABOUT
+"('r3d100013641', '23 Agriculture, Forestry, Horticulture and Veterinary Medicine')",ABOUT
+"('r3d100013641', '3 Natural Sciences')",ABOUT
+"('r3d100013641', '34 Geosciences (including Geography)')",ABOUT
+"('r3d100013641', 'biogeochemistry')",CONTAINS
+"('r3d100013641', 'carbon')",CONTAINS
+"('r3d100013641', 'climate')",CONTAINS
+"('r3d100013641', 'landscape')",CONTAINS
+"('r3d100013641', 'soil')",CONTAINS
+"('r3d100013641', 'Images')",HAS_CONTENT
+"('r3d100013641', 'Scientific and statistical data formats')",HAS_CONTENT
+"('r3d100013641', 'Standard office documents')",HAS_CONTENT
+"('r3d100013641', 'other')",HAS_CONTENT
+"('r3d100013641', 'dataProvider')",HAS_PROVIDER_TYPE

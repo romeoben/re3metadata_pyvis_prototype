@@ -1,0 +1,593 @@
+edge,title
+"('EUMETNET, European Climate Support Network', 'EEC')",FROM
+"('EUMETNET, European Climate Support Network', 'r3d100010055')",FUNDING_RESPONSIBILITY
+"('European Commission', 'EEC')",FROM
+"('European Commission', 'r3d100010055')",FUNDING_RESPONSIBILITY
+"('European Commission', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('European Commission', 'r3d100011057')",FUNDING_RESPONSIBILITY
+"('Royal Netherlands Meteorological Institute', 'NLD')",FROM
+"('Royal Netherlands Meteorological Institute', 'r3d100010055')",TECHNICAL_RESPONSIBILITY
+"('Royal Netherlands Meteorological Institute', 'r3d100010404')",TECHNICAL_RESPONSIBILITY
+"('Atmospheric Science Data Center at NASA Langley Research Center', 'USA')",FROM
+"('Atmospheric Science Data Center at NASA Langley Research Center', 'r3d100010061')",TECHNICAL_RESPONSIBILITY
+"(""NASA's Earth Observing System Data and Information System"", 'USA')",FROM
+"(""NASA's Earth Observing System Data and Information System"", 'r3d100010061')",FUNDING_RESPONSIBILITY
+"('St. Lawrence Global Observatory', 'CAN')",FROM
+"('St. Lawrence Global Observatory', 'r3d100010165')",TECHNICAL_RESPONSIBILITY
+"('European Monitoring and Evaluation Programme', 'EEC')",FROM
+"('European Monitoring and Evaluation Programme', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('European Supersites for Atmospheric Aerosol Research', 'EEC')",FROM
+"('European Supersites for Atmospheric Aerosol Research', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('Global Earth Observation and Monitoring of the Atmosphere', 'AAA')",FROM
+"('Global Earth Observation and Monitoring of the Atmosphere', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('Helsinki Commission, Baltic Marine Environment Protection Commission', 'FIN')",FROM
+"('Helsinki Commission, Baltic Marine Environment Protection Commission', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('Norwegian Institute for Air Research', 'NOR')",FROM
+"('Norwegian Institute for Air Research', 'r3d100010172')",TECHNICAL_RESPONSIBILITY
+"('OSPAR Commission, Protecting and conserving the North-East Atlantic and its resources', 'EEC')",FROM
+"('OSPAR Commission, Protecting and conserving the North-East Atlantic and its resources', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('World Meteorological Organization, Global Atmosphere Watch', 'AAA')",FROM
+"('World Meteorological Organization, Global Atmosphere Watch', 'r3d100010172')",FUNDING_RESPONSIBILITY
+"('Argonne National Laboratory', 'USA')",FROM
+"('Argonne National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Atmospheric Radiation Measurement Climate Research Facility', 'USA')",FROM
+"('Atmospheric Radiation Measurement Climate Research Facility', 'r3d100010186')",TECHNICAL_RESPONSIBILITY
+"('Brookhaven National Laboratory', 'USA')",FROM
+"('Brookhaven National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Brookhaven National Laboratory', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('Lawrence Berkeley National Laboratory', 'USA')",FROM
+"('Lawrence Berkeley National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Lawrence Berkeley National Laboratory', 'r3d100011506')",TECHNICAL_RESPONSIBILITY
+"('Lawrence Berkeley National Laboratory', 'r3d100013260')",TECHNICAL_RESPONSIBILITY
+"('Lawrence Berkeley National Laboratory', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('Lawrence Livermore National Laboratory', 'USA')",FROM
+"('Lawrence Livermore National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Los Alamos National Laboratory', 'USA')",FROM
+"('Los Alamos National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Los Alamos National Laboratory', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('National Renewable Energy  Laboratory', 'USA')",FROM
+"('National Renewable Energy  Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Oak Ridge National Laboratory', 'USA')",FROM
+"('Oak Ridge National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Oak Ridge National Laboratory', 'r3d100011676')",TECHNICAL_RESPONSIBILITY
+"('Pacific Northwest National Laboratory', 'USA')",FROM
+"('Pacific Northwest National Laboratory', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('U.S. Department of Energy, Office of Science', 'USA')",FROM
+"('U.S. Department of Energy, Office of Science', 'r3d100010186')",FUNDING_RESPONSIBILITY
+"('Environment and Climate Change Canada', 'CAN')",FROM
+"('Environment and Climate Change Canada', 'r3d100010210')",TECHNICAL_RESPONSIBILITY
+"('Environment and Climate Change Canada', 'r3d100012089')",TECHNICAL_RESPONSIBILITY
+"('Environment and Climate Change Canada', 'r3d100011981')",GENERAL_RESPONSIBILITY
+"('Environment and Climate Change Canada', 'r3d100012090')",GENERAL_RESPONSIBILITY
+"('Environment and Climate Change Canada', 'r3d100012094')",GENERAL_RESPONSIBILITY
+"('Government of Canada', 'CAN')",FROM
+"('Government of Canada', 'r3d100010210')",FUNDING_RESPONSIBILITY
+"('Government of Canada', 'r3d100012090')",GENERAL_RESPONSIBILITY
+"('EUMETSAT', 'EEC')",FROM
+"('EUMETSAT', 'r3d100010232')",TECHNICAL_RESPONSIBILITY
+"('Australian-New Zealand IODP Consortium', 'AUS')",FROM
+"('Australian-New Zealand IODP Consortium', 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('Coordination for Improvement of Higher Education Personnel', 'BRA')",FROM
+"('Coordination for Improvement of Higher Education Personnel', 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('IODP-Koordinationsbüro an der Bundesanstalt für Geowissenschaften und Rohstoffe BGR', 'DEU')",FROM
+"('IODP-Koordinationsbüro an der Bundesanstalt für Geowissenschaften und Rohstoffe BGR', 'r3d100010267')",GENERAL_RESPONSIBILITY
+"('India Ministry of Earth Science', 'IND')",FROM
+"('India Ministry of Earth Science', 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('Integrated Ocean Discovery Program', 'USA')",FROM
+"('Integrated Ocean Discovery Program', 'r3d100010267')",TECHNICAL_RESPONSIBILITY
+"('Japan Agency for Marine-Earth Science and Technology, Center for Deep Earth Exploration', 'JPN')",FROM
+"('Japan Agency for Marine-Earth Science and Technology, Center for Deep Earth Exploration', 'r3d100010267')",GENERAL_RESPONSIBILITY
+"(""Japan's Ministry of Education, Culture, Sports, Science and Technology"", 'JPN')",FROM
+"(""Japan's Ministry of Education, Culture, Sports, Science and Technology"", 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('Korea Institute of Geology, Mining and Materials', 'KOR')",FROM
+"('Korea Institute of Geology, Mining and Materials', 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen', 'DEU')",FROM
+"('MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen', 'r3d100010267')",GENERAL_RESPONSIBILITY
+"(""The People's Republic of China Ministry of Science and Technology"", 'CHN')",FROM
+"(""The People's Republic of China Ministry of Science and Technology"", 'r3d100010267')",FUNDING_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration', 'USA')",FROM
+"('National Oceanic and Atmospheric Administration', 'r3d100010286')",TECHNICAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration', 'r3d100010311')",GENERAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration', 'r3d100010942')",GENERAL_RESPONSIBILITY
+"('Battelle', 'USA')",FROM
+"('Battelle', 'r3d100010290')",TECHNICAL_RESPONSIBILITY
+"('DataONE', 'USA')",FROM
+"('DataONE', 'r3d100010290')",GENERAL_RESPONSIBILITY
+"('DataONE', 'r3d100010919')",GENERAL_RESPONSIBILITY
+"('National Science Foundation', 'USA')",FROM
+"('National Science Foundation', 'r3d100010290')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100010791')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100011010')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100011159')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100012498')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100012500')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100012585')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100012894')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100013130')",FUNDING_RESPONSIBILITY
+"('National Science Foundation', 'r3d100013469')",FUNDING_RESPONSIBILITY
+"('Deutsches Klimarechenzentrum GmbH', 'DEU')",FROM
+"('Deutsches Klimarechenzentrum GmbH', 'r3d100010299')",TECHNICAL_RESPONSIBILITY
+"('Deutsches Klimarechenzentrum GmbH', 'r3d100011966')",TECHNICAL_RESPONSIBILITY
+"('International Council for Science, World Data System', 'AAA')",FROM
+"('International Council for Science, World Data System', 'r3d100011966')",FUNDING_RESPONSIBILITY
+"('International Council for Science, World Data System', 'r3d100010299')",GENERAL_RESPONSIBILITY
+"('International Council for Science, World Data System', 'r3d100010588')",GENERAL_RESPONSIBILITY
+"('National Centers for Environmental Information', 'USA')",FROM
+"('National Centers for Environmental Information', 'r3d100010311')",GENERAL_RESPONSIBILITY
+"('The World Bank Group', 'USA')",FROM
+"('The World Bank Group', 'r3d100010379')",GENERAL_RESPONSIBILITY
+"('Trust Fund for Environmentally and Socially Sustainable Development', 'NOR')",FROM
+"('Trust Fund for Environmentally and Socially Sustainable Development', 'r3d100010379')",FUNDING_RESPONSIBILITY
+"('Koninklijk Nederlands Meterologisch Instituut', 'NLD')",FROM
+"('Koninklijk Nederlands Meterologisch Instituut', 'r3d100010402')",TECHNICAL_RESPONSIBILITY
+"('Badan Meterologi, Klimatologi, Dan Geofisika', 'IDN')",FROM
+"('Badan Meterologi, Klimatologi, Dan Geofisika', 'r3d100010404')",TECHNICAL_RESPONSIBILITY
+"('Universität Hamburg, Integrated Climate Data Center', 'DEU')",FROM
+"('Universität Hamburg, Integrated Climate Data Center', 'r3d100010405')",TECHNICAL_RESPONSIBILITY
+"('Universität Hamburg, KlimaCampus', 'DEU')",FROM
+"('Universität Hamburg, KlimaCampus', 'r3d100010405')",TECHNICAL_RESPONSIBILITY
+"('Center for Disaster Management and Risk Reduction Technology', 'DEU')",FROM
+"('Center for Disaster Management and Risk Reduction Technology', 'r3d100010406')",GENERAL_RESPONSIBILITY
+"('Karlsruher Institut für Technologie', 'DEU')",FROM
+"('Karlsruher Institut für Technologie', 'r3d100010406')",GENERAL_RESPONSIBILITY
+"('Karlsruher Institut für Technologie, Institut für Meteorologie und Klimaforschung - Forschungsbereich Troposphäre', 'DEU')",FROM
+"('Karlsruher Institut für Technologie, Institut für Meteorologie und Klimaforschung - Forschungsbereich Troposphäre', 'r3d100010406')",TECHNICAL_RESPONSIBILITY
+"('LACUNOSA Wetterberatung', 'DEU')",FROM
+"('LACUNOSA Wetterberatung', 'r3d100010406')",SPONSORING_RESPONSIBILITY
+"('EarthCube Council of Data Facilities', 'USA')",FROM
+"('EarthCube Council of Data Facilities', 'r3d100010505')",GENERAL_RESPONSIBILITY
+"(""NASA's Jet Propulsion Laboratory"", 'USA')",FROM
+"(""NASA's Jet Propulsion Laboratory"", 'r3d100010505')",TECHNICAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'USA')",FROM
+"('National Aeronautics and Space Administration', 'r3d100010505')",FUNDING_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100011010')",FUNDING_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100011739')",FUNDING_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100012431')",FUNDING_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100013469')",FUNDING_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100010519')",TECHNICAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100011018')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100012138')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100012163')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100012490')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration', 'r3d100012491')",GENERAL_RESPONSIBILITY
+"('NOAA Climate Observations and Monitoring (COM)', 'USA')",FROM
+"('NOAA Climate Observations and Monitoring (COM)', 'r3d100010519')",FUNDING_RESPONSIBILITY
+"('Woods Hole Oceanographic Institution', 'USA')",FROM
+"('Woods Hole Oceanographic Institution', 'r3d100010519')",TECHNICAL_RESPONSIBILITY
+"('Chinese Academy of Sciences, Institute of Geographical Sciences and Natural Resources Research', 'CHN')",FROM
+"('Chinese Academy of Sciences, Institute of Geographical Sciences and Natural Resources Research', 'r3d100010588')",TECHNICAL_RESPONSIBILITY
+"('Conservation International, Center for Applied Biodiversity Science, Tropical Ecology, Assessment and Monitoring Initiative', 'USA')",FROM
+"('Conservation International, Center for Applied Biodiversity Science, Tropical Ecology, Assessment and Monitoring Initiative', 'r3d100010606')",GENERAL_RESPONSIBILITY
+"('Gordon and Betty Moore Foundation', 'USA')",FROM
+"('Gordon and Betty Moore Foundation', 'r3d100010606')",FUNDING_RESPONSIBILITY
+"('University of California, San Diego, San Diego Supercomputer Center', 'USA')",FROM
+"('University of California, San Diego, San Diego Supercomputer Center', 'r3d100010606')",TECHNICAL_RESPONSIBILITY
+"('Bundesministerium für Verkehr und digitale Infrastruktur', 'DEU')",FROM
+"('Bundesministerium für Verkehr und digitale Infrastruktur', 'r3d100010621')",FUNDING_RESPONSIBILITY
+"('Deutscher Wetterdienst', 'DEU')",FROM
+"('Deutscher Wetterdienst', 'r3d100010621')",TECHNICAL_RESPONSIBILITY
+"('Deutscher Wetterdienst', 'r3d100011659')",TECHNICAL_RESPONSIBILITY
+"('Deutscher Wetterdienst', 'r3d100011687')",TECHNICAL_RESPONSIBILITY
+"('Global Terrestrial Network for Glaciers', 'AAA')",FROM
+"('Global Terrestrial Network for Glaciers', 'r3d100010627')",SPONSORING_RESPONSIBILITY
+"('Swiss GCOS Office at the Federal Office of Meteorology and Climatology', 'CHE')",FROM
+"('Swiss GCOS Office at the Federal Office of Meteorology and Climatology', 'r3d100010627')",FUNDING_RESPONSIBILITY
+"('University of Zurich, Department of Geography, World Glacier Monitoring Service', 'CHE')",FROM
+"('University of Zurich, Department of Geography, World Glacier Monitoring Service', 'r3d100010627')",TECHNICAL_RESPONSIBILITY
+"('WGMS National correspondents', 'AAA')",FROM
+"('WGMS National correspondents', 'r3d100010627')",GENERAL_RESPONSIBILITY
+"(""United Kingdom's Department for Business, Innovation and Skills, Met Office"", 'GBR')",FROM
+"(""United Kingdom's Department for Business, Innovation and Skills, Met Office"", 'r3d100010668')",GENERAL_RESPONSIBILITY
+"('University Corporation for Atmospheric Research', 'USA')",FROM
+"('University Corporation for Atmospheric Research', 'r3d100010791')",TECHNICAL_RESPONSIBILITY
+"('University Corporation for Atmospheric Research', 'r3d100012500')",GENERAL_RESPONSIBILITY
+"('Columbia University, Earth Institute, International Research Institute for Climate and Society', 'USA')",FROM
+"('Columbia University, Earth Institute, International Research Institute for Climate and Society', 'r3d100010854')",TECHNICAL_RESPONSIBILITY
+"('Columbia University, Earth Institute, International Research Institute for Climate and Society', 'r3d100010944')",GENERAL_RESPONSIBILITY
+"('NOAA Climate Program Office', 'USA')",FROM
+"('NOAA Climate Program Office', 'r3d100010854')",FUNDING_RESPONSIBILITY
+"('NASA, California Institute of Technology, Jet Propulsion Laboratory', 'USA')",FROM
+"('NASA, California Institute of Technology, Jet Propulsion Laboratory', 'r3d100010860')",TECHNICAL_RESPONSIBILITY
+"('Goddard Space Flight Center', 'USA')",FROM
+"('Goddard Space Flight Center', 'r3d100010867')",TECHNICAL_RESPONSIBILITY
+"('Japan Aerospace Exploration Agency', 'JPN')",FROM
+"('Japan Aerospace Exploration Agency', 'r3d100010867')",TECHNICAL_RESPONSIBILITY
+"('NASA', 'USA')",FROM
+"('NASA', 'r3d100010867')",TECHNICAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration, Earth Data', 'USA')",FROM
+"('National Aeronautics and Space Administration, Earth Data', 'r3d100010894')",GENERAL_RESPONSIBILITY
+"('Australian Government, Australian Institute of Marine Science', 'AUS')",FROM
+"('Australian Government, Australian Institute of Marine Science', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Australian Government, Bureau of Meteorology', 'AUS')",FROM
+"('Australian Government, Bureau of Meteorology', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Australian Government, Department of Education and Training, National Collaborative Research Infrastructure Strategy', 'AUS')",FROM
+"('Australian Government, Department of Education and Training, National Collaborative Research Infrastructure Strategy', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Australian Government, Department of the Environment, Australian Antarctic Division', 'AUS')",FROM
+"('Australian Government, Department of the Environment, Australian Antarctic Division', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Australian Government, Geoscience Australia', 'AUS')",FROM
+"('Australian Government, Geoscience Australia', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Commonwealth Science and Industrial Research Organisation, Oceans and Atmosphere', 'AUS')",FROM
+"('Commonwealth Science and Industrial Research Organisation, Oceans and Atmosphere', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('Integrated Marine Observing System', 'AUS')",FROM
+"('Integrated Marine Observing System', 'r3d100010914')",TECHNICAL_RESPONSIBILITY
+"('Integrated Marine Observing System', 'r3d100011749')",TECHNICAL_RESPONSIBILITY
+"('Integrated Marine Observing System', 'r3d100012594')",GENERAL_RESPONSIBILITY
+"('Royal Australian Navy', 'AUS')",FROM
+"('Royal Australian Navy', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('University of Tasmania', 'AUS')",FROM
+"('University of Tasmania', 'r3d100010914')",GENERAL_RESPONSIBILITY
+"('University of Tasmania', 'r3d100011749')",GENERAL_RESPONSIBILITY
+"('National Research Infrastructure Strategy', 'AUS')",FROM
+"('National Research Infrastructure Strategy', 'r3d100010919')",FUNDING_RESPONSIBILITY
+"('Partners of TERN', 'AUS')",FROM
+"('Partners of TERN', 'r3d100010919')",FUNDING_RESPONSIBILITY
+"('University of Queensland, Terrestrial Ecosystem Research Network', 'AUS')",FROM
+"('University of Queensland, Terrestrial Ecosystem Research Network', 'r3d100010919')",TECHNICAL_RESPONSIBILITY
+"('Applied Climate Information System', 'USA')",FROM
+"('Applied Climate Information System', 'r3d100010942')",TECHNICAL_RESPONSIBILITY
+"('NOAA, Desert Research Institute', 'USA')",FROM
+"('NOAA, Desert Research Institute', 'r3d100010942')",GENERAL_RESPONSIBILITY
+"('Columbia University, Earth Institute, Lamont-Doherty Earth Observatory', 'USA')",FROM
+"('Columbia University, Earth Institute, Lamont-Doherty Earth Observatory', 'r3d100010944')",GENERAL_RESPONSIBILITY
+"('University of Alaska Fairbanks, Geophysical Institute', 'USA')",FROM
+"('University of Alaska Fairbanks, Geophysical Institute', 'r3d100010954')",GENERAL_RESPONSIBILITY
+"('IASOA consortium', 'AAA')",FROM
+"('IASOA consortium', 'r3d100010955')",GENERAL_RESPONSIBILITY
+"('U.S. Department of Commerce, National Oceanic and Atmospheric Administration, Earth System Research Laboratory, Global Monitoring Division', 'USA')",FROM
+"('U.S. Department of Commerce, National Oceanic and Atmospheric Administration, Earth System Research Laboratory, Global Monitoring Division', 'r3d100010966')",GENERAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration, National Weather Service', 'USA')",FROM
+"('National Oceanic and Atmospheric Administration, National Weather Service', 'r3d100011003')",TECHNICAL_RESPONSIBILITY
+"('University of Colorado, Cooperative Institute for Research in Environmental Sciences, Steffen research group', 'USA')",FROM
+"('University of Colorado, Cooperative Institute for Research in Environmental Sciences, Steffen research group', 'r3d100011010')",TECHNICAL_RESPONSIBILITY
+"('Norwegian Meteorological Institute', 'NOR')",FROM
+"('Norwegian Meteorological Institute', 'r3d100011014')",GENERAL_RESPONSIBILITY
+"('NARSTO Qualty Systems Science Center', 'USA')",FROM
+"('NARSTO Qualty Systems Science Center', 'r3d100011018')",TECHNICAL_RESPONSIBILITY
+"('NASA Langley Research Center, Atmospheric Science Data Center', 'USA')",FROM
+"('NASA Langley Research Center, Atmospheric Science Data Center', 'r3d100011018')",TECHNICAL_RESPONSIBILITY
+"('NASA Langley Research Center, Atmospheric Science Data Center', 'r3d100012490')",TECHNICAL_RESPONSIBILITY
+"('U. S. Department of Commerce, National Oceanic and Atmospheric Administration, Global Monitoring Division, Earth System Research Laboratory', 'USA')",FROM
+"('U. S. Department of Commerce, National Oceanic and Atmospheric Administration, Global Monitoring Division, Earth System Research Laboratory', 'r3d100011020')",GENERAL_RESPONSIBILITY
+"('European Commission, Community Research and Development Information Service, Seventh Framework Programme', 'EEC')",FROM
+"('European Commission, Community Research and Development Information Service, Seventh Framework Programme', 'r3d100011057')",FUNDING_RESPONSIBILITY
+"('European Environment Agency', 'EEC')",FROM
+"('European Environment Agency', 'r3d100011057')",GENERAL_RESPONSIBILITY
+"('European Space Agency', 'EEC')",FROM
+"('European Space Agency', 'r3d100011057')",TECHNICAL_RESPONSIBILITY
+"('Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences', 'DEU')",FROM
+"('Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences', 'r3d100011112')",TECHNICAL_RESPONSIBILITY
+"('NOAA Partners', 'USA')",FROM
+"('NOAA Partners', 'r3d100011138')",GENERAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration, National Weather Service, Climate Prediction Center', 'USA')",FROM
+"('National Oceanic and Atmospheric Administration, National Weather Service, Climate Prediction Center', 'r3d100011138')",TECHNICAL_RESPONSIBILITY
+"('Consultative Group on International Agricultural Research,  Research Program on Climate Change, Agriculture and Food Security', 'COL')",FROM
+"('Consultative Group on International Agricultural Research,  Research Program on Climate Change, Agriculture and Food Security', 'r3d100011140')",TECHNICAL_RESPONSIBILITY
+"('European Commission, Community Research and Development Information Service,  FP7', 'EEC')",FROM
+"('European Commission, Community Research and Development Information Service,  FP7', 'r3d100011150')",FUNDING_RESPONSIBILITY
+"('The Cyprus Institute', 'CYP')",FROM
+"('The Cyprus Institute', 'r3d100011150')",TECHNICAL_RESPONSIBILITY
+"(""Department of Energy's Scientific Discovery, Advanced Computing program"", 'USA')",FROM
+"(""Department of Energy's Scientific Discovery, Advanced Computing program"", 'r3d100011159')",FUNDING_RESPONSIBILITY
+"('Earth System Grid Federation', 'USA')",FROM
+"('Earth System Grid Federation', 'r3d100011705')",TECHNICAL_RESPONSIBILITY
+"('Earth System Grid Federation', 'r3d100011159')",GENERAL_RESPONSIBILITY
+"('Oregon State University, Northwest Alliance for Computational Science & Engineering', 'USA')",FROM
+"('Oregon State University, Northwest Alliance for Computational Science & Engineering', 'r3d100011304')",TECHNICAL_RESPONSIBILITY
+"('Oregon State University, PRISM Climate Group', 'USA')",FROM
+"('Oregon State University, PRISM Climate Group', 'r3d100011304')",GENERAL_RESPONSIBILITY
+"('United States Department of Agriculture, Risk Management Agency', 'USA')",FROM
+"('United States Department of Agriculture, Risk Management Agency', 'r3d100011304')",FUNDING_RESPONSIBILITY
+"('Alfred Wegener Institute - Helmholtz Centre for Polar and Marine Research', 'DEU')",FROM
+"('Alfred Wegener Institute - Helmholtz Centre for Polar and Marine Research', 'r3d100011344')",GENERAL_RESPONSIBILITY
+"('Deutsches Klimarechenzentrum', 'DEU')",FROM
+"('Deutsches Klimarechenzentrum', 'r3d100011344')",TECHNICAL_RESPONSIBILITY
+"('Federal Ministry of Education and Research', 'DEU')",FROM
+"('Federal Ministry of Education and Research', 'r3d100011344')",FUNDING_RESPONSIBILITY
+"('FLUXNET', 'USA')",FROM
+"('FLUXNET', 'r3d100011506')",GENERAL_RESPONSIBILITY
+"('Australian Government, National Collaborative Research Infrastructure Strategy Program', 'AUS')",FROM
+"('Australian Government, National Collaborative Research Infrastructure Strategy Program', 'r3d100011630')",FUNDING_RESPONSIBILITY
+"('Australian Museum, Dr. Shane F. McEvey', 'AUS')",FROM
+"('Australian Museum, Dr. Shane F. McEvey', 'r3d100011630')",GENERAL_RESPONSIBILITY
+"('Australian National Data Service', 'AUS')",FROM
+"('Australian National Data Service', 'r3d100011630')",FUNDING_RESPONSIBILITY
+"('Australian National Data Service', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('Australian National Data Service', 'r3d100012594')",FUNDING_RESPONSIBILITY
+"('CSIRO, Black Mountain Laboratories, Oakeshott Lab', 'AUS')",FROM
+"('CSIRO, Black Mountain Laboratories, Oakeshott Lab', 'r3d100011630')",GENERAL_RESPONSIBILITY
+"(""Monash University, Dr. Carla Sgrò's Research Group"", 'AUS')",FROM
+"(""Monash University, Dr. Carla Sgrò's Research Group"", 'r3d100011630')",GENERAL_RESPONSIBILITY
+"('NeCTAR', 'AUS')",FROM
+"('NeCTAR', 'r3d100011630')",TECHNICAL_RESPONSIBILITY
+"('Science and Industry Endowment Fund', 'AUS')",FROM
+"('Science and Industry Endowment Fund', 'r3d100011630')",FUNDING_RESPONSIBILITY
+"('University College London, Institute of Healthy Ageing, Partridge Lab', 'GBR')",FROM
+"('University College London, Institute of Healthy Ageing, Partridge Lab', 'r3d100011630')",GENERAL_RESPONSIBILITY
+"('University of Melbourne Library, eScholarship Research Centre', 'AUS')",FROM
+"('University of Melbourne Library, eScholarship Research Centre', 'r3d100011630')",TECHNICAL_RESPONSIBILITY
+"('VicNode', 'AUS')",FROM
+"('VicNode', 'r3d100011630')",TECHNICAL_RESPONSIBILITY
+"('Australian Government, Department of Education and Training, Education Investment Fund, Super Science Initiative', 'AUS')",FROM
+"('Australian Government, Department of Education and Training, Education Investment Fund, Super Science Initiative', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('Australian Government, Department of Education and Training, National Collaborative Research Infrastructure', 'AUS')",FROM
+"('Australian Government, Department of Education and Training, National Collaborative Research Infrastructure', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('Australian Research Council', 'AUS')",FROM
+"('Australian Research Council', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('Murray-Darling Basin Authority', 'AUS')",FROM
+"('Murray-Darling Basin Authority', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('New South Wales Government, Department of Primary Industries', 'AUS')",FROM
+"('New South Wales Government, Department of Primary Industries', 'r3d100011636')",FUNDING_RESPONSIBILITY
+"('University of Technology, Sydney', 'AUS')",FROM
+"('University of Technology, Sydney', 'r3d100011636')",TECHNICAL_RESPONSIBILITY
+"('Eumetsat', 'EEC')",FROM
+"('Eumetsat', 'r3d100011659')",TECHNICAL_RESPONSIBILITY
+"('European Centre for Medium Weather Forecast', 'EEC')",FROM
+"('European Centre for Medium Weather Forecast', 'r3d100011659')",GENERAL_RESPONSIBILITY
+"('Royal Meteorological Institute of Belgium', 'BEL')",FROM
+"('Royal Meteorological Institute of Belgium', 'r3d100011659')",GENERAL_RESPONSIBILITY
+"('Institut Pierre Simon Laplace', 'FRA')",FROM
+"('Institut Pierre Simon Laplace', 'r3d100011673')",GENERAL_RESPONSIBILITY
+"('MISTRALS', 'FRA')",FROM
+"('MISTRALS', 'r3d100011673')",GENERAL_RESPONSIBILITY
+"(""Observatoire Midi-Pyrénées, Service de Données de l'OMP"", 'FRA')",FROM
+"(""Observatoire Midi-Pyrénées, Service de Données de l'OMP"", 'r3d100011673')",TECHNICAL_RESPONSIBILITY
+"(""Observatoire Midi-Pyrénées, Service de Données de l'OMP"", 'r3d100011686')",TECHNICAL_RESPONSIBILITY
+"('University of Lille, ICARE Data and Services Center', 'FRA')",FROM
+"('University of Lille, ICARE Data and Services Center', 'r3d100011673')",GENERAL_RESPONSIBILITY
+"('Oak Ridge National Laboratory, Energy and Environmental Sciences, Environmental Sciences Division', 'USA')",FROM
+"('Oak Ridge National Laboratory, Energy and Environmental Sciences, Environmental Sciences Division', 'r3d100011676')",TECHNICAL_RESPONSIBILITY
+"('Sandia National Laboratory', 'USA')",FROM
+"('Sandia National Laboratory', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('U.S.Department of Energy, Office of Science', 'USA')",FROM
+"('U.S.Department of Energy, Office of Science', 'r3d100011676')",FUNDING_RESPONSIBILITY
+"('University of Alaska Fairbanks', 'USA')",FROM
+"('University of Alaska Fairbanks', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('University of Nebraska Lincoln', 'USA')",FROM
+"('University of Nebraska Lincoln', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('University of New Hampshire', 'USA')",FROM
+"('University of New Hampshire', 'r3d100013130')",TECHNICAL_RESPONSIBILITY
+"('University of New Hampshire', 'r3d100011676')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration, Ocean Biology Processing Group', 'USA')",FROM
+"('National Aeronautics and Space Administration, Ocean Biology Processing Group', 'r3d100011683')",TECHNICAL_RESPONSIBILITY
+"(""Consiglio Nazionale delle Ricerche, Dipartimento Scienze del Sistema Terra e Tecnologie per l'Ambiente"", 'ITA')",FROM
+"(""Consiglio Nazionale delle Ricerche, Dipartimento Scienze del Sistema Terra e Tecnologie per l'Ambiente"", 'r3d100011684')",TECHNICAL_RESPONSIBILITY
+"('United Nations Environment Programmme', 'AAA')",FROM
+"('United Nations Environment Programmme', 'r3d100011684')",FUNDING_RESPONSIBILITY
+"('Institut Pierre Simon Laplace, Ensemble de Services Pour la Recherche', 'FRA')",FROM
+"('Institut Pierre Simon Laplace, Ensemble de Services Pour la Recherche', 'r3d100011686')",TECHNICAL_RESPONSIBILITY
+"('Université de Lille, Institut de Création Audiovisuelle en Recherche et Enseignement', 'FRA')",FROM
+"('Université de Lille, Institut de Création Audiovisuelle en Recherche et Enseignement', 'r3d100011686')",TECHNICAL_RESPONSIBILITY
+"('Global Climate Observing System', 'AAA')",FROM
+"('Global Climate Observing System', 'r3d100011687')",GENERAL_RESPONSIBILITY
+"('World Climate Research Programme', 'AAA')",FROM
+"('World Climate Research Programme', 'r3d100011687')",GENERAL_RESPONSIBILITY
+"('World Meteorological Organization', 'AAA')",FROM
+"('World Meteorological Organization', 'r3d100011687')",FUNDING_RESPONSIBILITY
+"('Bolin Centre for Climate Researh', 'SWE')",FROM
+"('Bolin Centre for Climate Researh', 'r3d100011699')",GENERAL_RESPONSIBILITY
+"('KTH Royal Institute of Technology,   FLOW', 'SWE')",FROM
+"('KTH Royal Institute of Technology,   FLOW', 'r3d100011699')",GENERAL_RESPONSIBILITY
+"('Stockholm University', 'SWE')",FROM
+"('Stockholm University', 'r3d100011699')",GENERAL_RESPONSIBILITY
+"('Swedish Meteorological and Hydrological Institute, Rossby Centre', 'SWE')",FROM
+"('Swedish Meteorological and Hydrological Institute, Rossby Centre', 'r3d100011699')",GENERAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration, National Centers for Environmental Information', 'USA')",FROM
+"('National Oceanic and Atmospheric Administration, National Centers for Environmental Information', 'r3d100011704')",TECHNICAL_RESPONSIBILITY
+"('Lawrence Livermore National Laboratory, Program for Climate Model Diagnosis and Intercomparison', 'USA')",FROM
+"('Lawrence Livermore National Laboratory, Program for Climate Model Diagnosis and Intercomparison', 'r3d100011705')",TECHNICAL_RESPONSIBILITY
+"('Met Office Hadley Centre', 'GBR')",FROM
+"('Met Office Hadley Centre', 'r3d100011705')",TECHNICAL_RESPONSIBILITY
+"(""U.S. Department of Energy's Office of Science, Biological and Environmental Research, Climate and Environmental Sciences Division,  Regional and Global Climate Modeling  Program"", 'USA')",FROM
+"(""U.S. Department of Energy's Office of Science, Biological and Environmental Research, Climate and Environmental Sciences Division,  Regional and Global Climate Modeling  Program"", 'r3d100011705')",FUNDING_RESPONSIBILITY
+"('Centre for Ecology & Hydrology', 'GBR')",FROM
+"('Centre for Ecology & Hydrology', 'r3d100011721')",TECHNICAL_RESPONSIBILITY
+"('Natural Environment Research Council', 'GBR')",FROM
+"('Natural Environment Research Council', 'r3d100011721')",FUNDING_RESPONSIBILITY
+"('Natural Environment Research Council', 'r3d100012305')",FUNDING_RESPONSIBILITY
+"('European Centre for Medium-Range Weather Forecasts', 'EEC')",FROM
+"('European Centre for Medium-Range Weather Forecasts', 'r3d100011726')",TECHNICAL_RESPONSIBILITY
+"('Columbia University in the City of New York', 'USA')",FROM
+"('Columbia University in the City of New York', 'r3d100011739')",GENERAL_RESPONSIBILITY
+"('NASA Goddard Institute for Space Studies', 'USA')",FROM
+"('NASA Goddard Institute for Space Studies', 'r3d100011739')",GENERAL_RESPONSIBILITY
+"('Trinnovim LLC', 'USA')",FROM
+"('Trinnovim LLC', 'r3d100011739')",TECHNICAL_RESPONSIBILITY
+"('Fondation BNP Paribas', 'FRA')",FROM
+"('Fondation BNP Paribas', 'r3d100011741')",FUNDING_RESPONSIBILITY
+"('Global Carbon Project', 'AAA')",FROM
+"('Global Carbon Project', 'r3d100011741')",GENERAL_RESPONSIBILITY
+"('National Collaborative Research Infrastructure Strategy', 'AUS')",FROM
+"('National Collaborative Research Infrastructure Strategy', 'r3d100011749')",GENERAL_RESPONSIBILITY
+"('National Oceanic and Atmospheric Administration, National Centers for Environmental Prediction', 'USA')",FROM
+"('National Oceanic and Atmospheric Administration, National Centers for Environmental Prediction', 'r3d100011759')",GENERAL_RESPONSIBILITY
+"('National Weather Service', 'USA')",FROM
+"('National Weather Service', 'r3d100011759')",GENERAL_RESPONSIBILITY
+"('U.S. Department of Commerce | National Oceanic and Atmospheric Administration | Earth System Research Laboratory | Physical Sciences Division', 'USA')",FROM
+"('U.S. Department of Commerce | National Oceanic and Atmospheric Administration | Earth System Research Laboratory | Physical Sciences Division', 'r3d100011763')",TECHNICAL_RESPONSIBILITY
+"('NOAA, National Environmental Satellite, Data, and Information Service', 'USA')",FROM
+"('NOAA, National Environmental Satellite, Data, and Information Service', 'r3d100011764')",TECHNICAL_RESPONSIBILITY
+"('Natonal Oceanic and Atmospheric Administration, National Centers for Environmental Information', 'USA')",FROM
+"('Natonal Oceanic and Atmospheric Administration, National Centers for Environmental Information', 'r3d100011764')",GENERAL_RESPONSIBILITY
+"('USA.gov', 'USA')",FROM
+"('USA.gov', 'r3d100011764')",FUNDING_RESPONSIBILITY
+"('NOAA Earth System Research Laboratory', 'USA')",FROM
+"('NOAA Earth System Research Laboratory', 'r3d100011781')",GENERAL_RESPONSIBILITY
+"('Centre for Ecology and Hydrology', 'GBR')",FROM
+"('Centre for Ecology and Hydrology', 'r3d100011790')",TECHNICAL_RESPONSIBILITY
+"('European Commission, Research & Innovation, Sixth Framework Programm', 'EEC')",FROM
+"('European Commission, Research & Innovation, Sixth Framework Programm', 'r3d100011790')",FUNDING_RESPONSIBILITY
+"('Ashoka Trust for Research in Ecology and the Environment', 'IND')",FROM
+"('Ashoka Trust for Research in Ecology and the Environment', 'r3d100011791')",GENERAL_RESPONSIBILITY
+"('International Center for Tropical Agriculture', 'AAA')",FROM
+"('International Center for Tropical Agriculture', 'r3d100011791')",GENERAL_RESPONSIBILITY
+"('National Herbarium of the Netherlands', 'NLD')",FROM
+"('National Herbarium of the Netherlands', 'r3d100011791')",GENERAL_RESPONSIBILITY
+"('NatureServe', 'USA')",FROM
+"('NatureServe', 'r3d100011791')",FUNDING_RESPONSIBILITY
+"('Rainforest CRS', 'AUS')",FROM
+"('Rainforest CRS', 'r3d100011791')",GENERAL_RESPONSIBILITY
+"('Reference Center on Environmental Information', 'BRA')",FROM
+"('Reference Center on Environmental Information', 'r3d100011791')",GENERAL_RESPONSIBILITY
+"('University of California, Berkeley, Museum of Vertebrate Zoology', 'USA')",FROM
+"('University of California, Berkeley, Museum of Vertebrate Zoology', 'r3d100011791')",TECHNICAL_RESPONSIBILITY
+"('Koninklijk Nederlands Meteorologisch Instituut', 'NLD')",FROM
+"('Koninklijk Nederlands Meteorologisch Instituut', 'r3d100011879')",GENERAL_RESPONSIBILITY
+"('Albert-Ludwigs-University Freiburg, Department of Physical Geography', 'DEU')",FROM
+"('Albert-Ludwigs-University Freiburg, Department of Physical Geography', 'r3d100011959')",TECHNICAL_RESPONSIBILITY
+"('Albert-Ludwigs-University Freiburg, University Library', 'DEU')",FROM
+"('Albert-Ludwigs-University Freiburg, University Library', 'r3d100011959')",GENERAL_RESPONSIBILITY
+"('Augsburg University, Institute of Geography', 'DEU')",FROM
+"('Augsburg University, Institute of Geography', 'r3d100011959')",GENERAL_RESPONSIBILITY
+"('German Research Foundation', 'DEU')",FROM
+"('German Research Foundation', 'r3d100011959')",FUNDING_RESPONSIBILITY
+"('Hochschule Esslingen', 'DEU')",FROM
+"('Hochschule Esslingen', 'r3d100011959')",GENERAL_RESPONSIBILITY
+"('Leibniz Institute for Regional Geography', 'DEU')",FROM
+"('Leibniz Institute for Regional Geography', 'r3d100011959')",GENERAL_RESPONSIBILITY
+"('Helmholtz-Zentrum hereon GmbH', 'DEU')",FROM
+"('Helmholtz-Zentrum hereon GmbH', 'r3d100011966')",TECHNICAL_RESPONSIBILITY
+"('Canadian Centre for Climate Modelling and Analysis', 'CAN')",FROM
+"('Canadian Centre for Climate Modelling and Analysis', 'r3d100012090')",GENERAL_RESPONSIBILITY
+"(""WCRP's Working Group on Coupled Modelling, Coupled Model Intercomparison Project Phase 5"", 'CAN')",FROM
+"(""WCRP's Working Group on Coupled Modelling, Coupled Model Intercomparison Project Phase 5"", 'r3d100012090')",TECHNICAL_RESPONSIBILITY
+"('Atmospheric Science Data Center', 'USA')",FROM
+"('Atmospheric Science Data Center', 'r3d100012138')",TECHNICAL_RESPONSIBILITY
+"('Land Processes Distributed Active Archive Center', 'USA')",FROM
+"('Land Processes Distributed Active Archive Center', 'r3d100012138')",TECHNICAL_RESPONSIBILITY
+"('Level 1 and Atmosphere Archive and Distribution System', 'USA')",FROM
+"('Level 1 and Atmosphere Archive and Distribution System', 'r3d100012138')",TECHNICAL_RESPONSIBILITY
+"('NASA  Ocean Color Web', 'USA')",FROM
+"('NASA  Ocean Color Web', 'r3d100012138')",TECHNICAL_RESPONSIBILITY
+"('National Snow and Ice Data Center', 'USA')",FROM
+"('National Snow and Ice Data Center', 'r3d100012138')",TECHNICAL_RESPONSIBILITY
+"('European Commission, Community Research and Development Information Service, Seventh Framework Programme - FP7, IS-ENES 2', 'EEC')",FROM
+"('European Commission, Community Research and Development Information Service, Seventh Framework Programme - FP7, IS-ENES 2', 'r3d100012141')",FUNDING_RESPONSIBILITY
+"('Infrastructure for the European Network for Earth System Modelling', 'EEC')",FROM
+"('Infrastructure for the European Network for Earth System Modelling', 'r3d100012141')",GENERAL_RESPONSIBILITY
+"(""NASA's Goddard Space Flight Center"", 'USA')",FROM
+"(""NASA's Goddard Space Flight Center"", 'r3d100012163')",TECHNICAL_RESPONSIBILITY
+"('Climate Change Centre Austria', 'AUT')",FROM
+"('Climate Change Centre Austria', 'r3d100012288')",FUNDING_RESPONSIBILITY
+"('Zentralanstalt für Meteorologie und Geodynamik', 'AUT')",FROM
+"('Zentralanstalt für Meteorologie und Geodynamik', 'r3d100012288')",TECHNICAL_RESPONSIBILITY
+"('Centre for Environmental Data Analysis', 'GBR')",FROM
+"('Centre for Environmental Data Analysis', 'r3d100012305')",TECHNICAL_RESPONSIBILITY
+"('National Centre for Atmospheric Science', 'GBR')",FROM
+"('National Centre for Atmospheric Science', 'r3d100012305')",GENERAL_RESPONSIBILITY
+"('National Centre for Earth Observation', 'GBR')",FROM
+"('National Centre for Earth Observation', 'r3d100012305')",GENERAL_RESPONSIBILITY
+"('Science and Technology Facilities Council', 'GBR')",FROM
+"('Science and Technology Facilities Council', 'r3d100012305')",FUNDING_RESPONSIBILITY
+"('SAHFOS', 'GBR')",FROM
+"('SAHFOS', 'r3d100012340')",TECHNICAL_RESPONSIBILITY
+"('California Institute of Technology, Jet Propulsion Laboratory', 'USA')",FROM
+"('California Institute of Technology, Jet Propulsion Laboratory', 'r3d100012431')",TECHNICAL_RESPONSIBILITY
+"('Goddard Earth Sciences Data and Information Services Center', 'USA')",FROM
+"('Goddard Earth Sciences Data and Information Services Center', 'r3d100012431')",TECHNICAL_RESPONSIBILITY
+"(""Centre national d'études spatiales"", 'FRA')",FROM
+"(""Centre national d'études spatiales"", 'r3d100012490')",GENERAL_RESPONSIBILITY
+"('Global Energy and Water Exchanges', 'AAA')",FROM
+"('Global Energy and Water Exchanges', 'r3d100012491')",GENERAL_RESPONSIBILITY
+"('National Aeronautics and Space Administration, Langley Research Center', 'USA')",FROM
+"('National Aeronautics and Space Administration, Langley Research Center', 'r3d100012491')",GENERAL_RESPONSIBILITY
+"('U.S. Department of Energy', 'USA')",FROM
+"('U.S. Department of Energy', 'r3d100012498')",FUNDING_RESPONSIBILITY
+"('University Corporation for Atmospheric Research - National Center for Atmospheric Research, Climate and Global Dynamics Laboratory', 'USA')",FROM
+"('University Corporation for Atmospheric Research - National Center for Atmospheric Research, Climate and Global Dynamics Laboratory', 'r3d100012498')",TECHNICAL_RESPONSIBILITY
+"('National Center for Atmospheric Research', 'USA')",FROM
+"('National Center for Atmospheric Research', 'r3d100012585')",TECHNICAL_RESPONSIBILITY
+"('National Center for Atmospheric Research', 'r3d100012500')",GENERAL_RESPONSIBILITY
+"('Botanische Staatssammlung München', 'DEU')",FROM
+"('Botanische Staatssammlung München', 'r3d100012561')",TECHNICAL_RESPONSIBILITY
+"('Bundesministerium für Bildung und Forschung', 'DEU')",FROM
+"('Bundesministerium für Bildung und Forschung', 'r3d100012561')",FUNDING_RESPONSIBILITY
+"('Deutsche Forschungsgemeinschaft', 'DEU')",FROM
+"('Deutsche Forschungsgemeinschaft', 'r3d100012561')",FUNDING_RESPONSIBILITY
+"('Ludwig-Maximilians-Universität München, Fakultät für Biologie - Department I, Systematische Botanik und Mykologie', 'DEU')",FROM
+"('Ludwig-Maximilians-Universität München, Fakultät für Biologie - Department I, Systematische Botanik und Mykologie', 'r3d100012561')",GENERAL_RESPONSIBILITY
+"('Staatliche Naturwissenschaftliche Sammlungen Bayerns', 'DEU')",FROM
+"('Staatliche Naturwissenschaftliche Sammlungen Bayerns', 'r3d100012561')",TECHNICAL_RESPONSIBILITY
+"('Universität Bayreuth, Fakultät für Biologie, Chemie und Geowissenschaften,  Abteilung Mykologie', 'DEU')",FROM
+"('Universität Bayreuth, Fakultät für Biologie, Chemie und Geowissenschaften,  Abteilung Mykologie', 'r3d100012561')",GENERAL_RESPONSIBILITY
+"('Kelp Ecology Ecosystem Network', 'AAA')",FROM
+"('Kelp Ecology Ecosystem Network', 'r3d100012594')",GENERAL_RESPONSIBILITY
+"('Tasmanian Partnership for Advanced Computing', 'AUS')",FROM
+"('Tasmanian Partnership for Advanced Computing', 'r3d100012594')",FUNDING_RESPONSIBILITY
+"('University of Tasmania, Institute for Marine & Antarctic Studies', 'AUS')",FROM
+"('University of Tasmania, Institute for Marine & Antarctic Studies', 'r3d100012594')",TECHNICAL_RESPONSIBILITY
+"('Dataverse Project', 'AAA')",FROM
+"('Dataverse Project', 'r3d100012800')",TECHNICAL_RESPONSIBILITY
+"('Harvard University, Institute for Quantitave Social Science', 'USA')",FROM
+"('Harvard University, Institute for Quantitave Social Science', 'r3d100012800')",TECHNICAL_RESPONSIBILITY
+"('Ontario Council of University Libraries', 'CAN')",FROM
+"('Ontario Council of University Libraries', 'r3d100012800')",TECHNICAL_RESPONSIBILITY
+"(""Queen's University Library"", 'CAN')",FROM
+"(""Queen's University Library"", 'r3d100012800')",GENERAL_RESPONSIBILITY
+"('EarthCube', 'USA')",FROM
+"('EarthCube', 'r3d100012894')",FUNDING_RESPONSIBILITY
+"('Northern Arizona University, School of Earth Sciences and Environmental Sustainability', 'USA')",FROM
+"('Northern Arizona University, School of Earth Sciences and Environmental Sustainability', 'r3d100012894')",GENERAL_RESPONSIBILITY
+"('University of Southern California, Department of Earth Science', 'USA')",FROM
+"('University of Southern California, Department of Earth Science', 'r3d100012894')",GENERAL_RESPONSIBILITY
+"('University of Southern California, Information Science Institute', 'USA')",FROM
+"('University of Southern California, Information Science Institute', 'r3d100012894')",GENERAL_RESPONSIBILITY
+"('European Commission, Research & Innovation, Seventh Framework Programm - FP7', 'EEC')",FROM
+"('European Commission, Research & Innovation, Seventh Framework Programm - FP7', 'r3d100012899')",FUNDING_RESPONSIBILITY
+"('University of Ljubljana, Faculty of Mathematics and Physics', 'SVN')",FROM
+"('University of Ljubljana, Faculty of Mathematics and Physics', 'r3d100012899')",GENERAL_RESPONSIBILITY
+"('Havforskningsinstituttet', 'NOR')",FROM
+"('Havforskningsinstituttet', 'r3d100012909')",GENERAL_RESPONSIBILITY
+"('Nansen Environmental and Remote Sensing Center', 'NOR')",FROM
+"('Nansen Environmental and Remote Sensing Center', 'r3d100012909')",GENERAL_RESPONSIBILITY
+"('Uni Research', 'NOR')",FROM
+"('Uni Research', 'r3d100012909')",GENERAL_RESPONSIBILITY
+"('University of Bergen, Bjerknes Centre for Climate Research', 'NOR')",FROM
+"('University of Bergen, Bjerknes Centre for Climate Research', 'r3d100012909')",GENERAL_RESPONSIBILITY
+"('University of Bergen, Bjerknes Climate Data Centre', 'NOR')",FROM
+"('University of Bergen, Bjerknes Climate Data Centre', 'r3d100012909')",GENERAL_RESPONSIBILITY
+"('Centre of Excellence HPSC TerrSys, Simulation Laboratory Terrestrial Systems', 'DEU')",FROM
+"('Centre of Excellence HPSC TerrSys, Simulation Laboratory Terrestrial Systems', 'r3d100012935')",GENERAL_RESPONSIBILITY
+"('Forschungszentrum Jülich GmbH', 'DEU')",FROM
+"('Forschungszentrum Jülich GmbH', 'r3d100012935')",GENERAL_RESPONSIBILITY
+"('Forschungszentrum Jülich, Institute for Advanced Simulation, Jülich Supercomputing Centre', 'DEU')",FROM
+"('Forschungszentrum Jülich, Institute for Advanced Simulation, Jülich Supercomputing Centre', 'r3d100012935')",TECHNICAL_RESPONSIBILITY
+"('PhenoCam Project Team', 'USA')",FROM
+"('PhenoCam Project Team', 'r3d100013130')",GENERAL_RESPONSIBILITY
+"('Excellence Cluster Topoi', 'DEU')",FROM
+"('Excellence Cluster Topoi', 'r3d100013158')",TECHNICAL_RESPONSIBILITY
+"('Freie Universität Berlin, Institut für Meteorologie', 'DEU')",FROM
+"('Freie Universität Berlin, Institut für Meteorologie', 'r3d100013158')",GENERAL_RESPONSIBILITY
+"('CMCC Foundation', 'ITA')",FROM
+"('CMCC Foundation', 'r3d100013232')",GENERAL_RESPONSIBILITY
+"('U.S.  Department of Energy, Office of Science', 'USA')",FROM
+"('U.S.  Department of Energy, Office of Science', 'r3d100013260')",FUNDING_RESPONSIBILITY
+"('OpenGeoHub foundation', 'NLD')",FROM
+"('OpenGeoHub foundation', 'r3d100013372')",TECHNICAL_RESPONSIBILITY
+"('IsoArcH Association', 'AAA')",FROM
+"('IsoArcH Association', 'r3d100013383')",GENERAL_RESPONSIBILITY
+"('IsoArch Project Team', 'AAA')",FROM
+"('IsoArch Project Team', 'r3d100013383')",GENERAL_RESPONSIBILITY
+"(""European Union's Earth Observation Programme"", 'EEC')",FROM
+"(""European Union's Earth Observation Programme"", 'r3d100013404')",GENERAL_RESPONSIBILITY
+"('Mercator Ocean International', 'FRA')",FROM
+"('Mercator Ocean International', 'r3d100013404')",TECHNICAL_RESPONSIBILITY
+"('National Center for Ecological Analysis and Synthesis', 'USA')",FROM
+"('National Center for Ecological Analysis and Synthesis', 'r3d100013469')",FUNDING_RESPONSIBILITY
+"('University of Buffalo', 'USA')",FROM
+"('University of Buffalo', 'r3d100013469')",GENERAL_RESPONSIBILITY
+"('University of Florida', 'USA')",FROM
+"('University of Florida', 'r3d100013469')",GENERAL_RESPONSIBILITY
+"('Yale University', 'USA')",FROM
+"('Yale University', 'r3d100013469')",TECHNICAL_RESPONSIBILITY
+"('Otto-von-Guericke-Universität Magdeburg', 'DEU')",FROM
+"('Otto-von-Guericke-Universität Magdeburg', 'r3d100013512')",TECHNICAL_RESPONSIBILITY
+"('Reiner Lemoine Institut', 'DEU')",FROM
+"('Reiner Lemoine Institut', 'r3d100013512')",TECHNICAL_RESPONSIBILITY
+"('Finnish Meteorological Institute', 'FIN')",FROM
+"('Finnish Meteorological Institute', 'r3d100013582')",GENERAL_RESPONSIBILITY
+"('Berkeley Lab, Earth & Environmental Sciences Area', 'USA')",FROM
+"('Berkeley Lab, Earth & Environmental Sciences Area', 'r3d100013636')",GENERAL_RESPONSIBILITY
+"('U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research', 'USA')",FROM
+"('U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research', 'r3d100013636')",FUNDING_RESPONSIBILITY
+"('International Soil Carbon Network', 'AAA')",FROM
+"('International Soil Carbon Network', 'r3d100013641')",TECHNICAL_RESPONSIBILITY
